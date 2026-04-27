@@ -1,0 +1,2378 @@
+[
+  {
+    "full_name": "EvoLinkAI/awesome-gpt-image-2-prompts",
+    "html_url": "https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts",
+    "description": "Curated GPT-Image-2 prompts fot the Openai API：image examples across portraits, posters, UI mockups, character sheets, and community experiments.",
+    "language": "Python",
+    "license": "NOASSERTION",
+    "stars": 5707,
+    "updated_at": "2026-04-27T06:52:26Z"
+  },
+  {
+    "full_name": "GargantuaX/gemini-watermark-remover",
+    "html_url": "https://github.com/GargantuaX/gemini-watermark-remover",
+    "description": "A high-performance, 100% client-side tool for removing Gemini AI watermarks. Built with pure JavaScript, it leverages a mathematically precise Reverse Alpha Blending algorithm rather than unpredictable AI inpainting. Tired of Gemini Watermark? GPT Image 2 ↓ / 基于 Javascript 的纯浏览器端 Gemini AI 图像无损去水印工具，使用数学精确的反向 Alpha 混合算法，对gemini水印疲了？推荐GPT-Image-2 ↓",
+    "language": "JavaScript",
+    "license": "MIT",
+    "stars": 3872,
+    "updated_at": "2026-04-27T06:47:36Z"
+  },
+  {
+    "full_name": "YouMind-OpenLab/awesome-gpt-image-2",
+    "html_url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-2",
+    "description": "🚀 World's largest GPT Image 2 prompt library, updated daily — 2000+ curated prompts with preview images, 16 languages. OpenAI's next-gen image model with pixel-perfect text rendering, cross-image consistency, and commercial-grade illustration. Free & open source.",
+    "language": "TypeScript",
+    "license": "NOASSERTION",
+    "stars": 3014,
+    "updated_at": "2026-04-27T06:50:43Z"
+  },
+  {
+    "full_name": "Anil-matcha/Awesome-GPT-Image-2-API-Prompts",
+    "html_url": "https://github.com/Anil-matcha/Awesome-GPT-Image-2-API-Prompts",
+    "description": "Curated GPT-Image-2 prompts for the OpenAI API — portraits, posters, UI mockups, game screenshots, character sheets, and more. Ready-to-use prompts for gpt-image-2.",
+    "language": "—",
+    "license": "MIT",
+    "stars": 1713,
+    "updated_at": "2026-04-27T06:46:25Z"
+  },
+  {
+    "full_name": "ConardLi/garden-skills",
+    "html_url": "https://github.com/ConardLi/garden-skills",
+    "description": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
+    "language": "JavaScript",
+    "license": "MIT",
+    "stars": 1444,
+    "updated_at": "2026-04-27T06:51:04Z"
+  },
+  {
+    "full_name": "432539/gpt2api",
+    "html_url": "https://github.com/432539/gpt2api",
+    "description": "基于 chatgpt.com 逆向的 OpenAI 兼容 SaaS 网关 · GPT-IMAGE-2 稳定 · 批量出图 · 多账号池 · 高并发调度 · 积分计费 · 技术交流QQ 群 382446",
+    "language": "Go",
+    "license": "NOASSERTION",
+    "stars": 1109,
+    "updated_at": "2026-04-27T06:14:01Z"
+  },
+  {
+    "full_name": "freestylefly/awesome-gpt-image-2",
+    "html_url": "https://github.com/freestylefly/awesome-gpt-image-2",
+    "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库 - 329个案例逆向工程，13套工业级模板",
+    "language": "—",
+    "license": "MIT",
+    "stars": 876,
+    "updated_at": "2026-04-27T06:50:43Z"
+  },
+  {
+    "full_name": "Jamailar/RedBox",
+    "html_url": "https://github.com/Jamailar/RedBox",
+    "description": "用AI创作高质量内容，用gpt-image-2创作的最佳生图工具，AI图片自动编排，小红书版Openclaw，自媒体创作者的AI工作台，小红书创作AI工具RedClaw，支持小红书图文下载、创作风格学习、小红书AI创作｜🌟 Star if you like it! ｜ 你桌面盒子里的AI小河狸🦫",
+    "language": "TypeScript",
+    "license": "NOASSERTION",
+    "stars": 821,
+    "updated_at": "2026-04-27T03:06:45Z"
+  },
+  {
+    "full_name": "wuyoscar/gpt_image_2_skill",
+    "html_url": "https://github.com/wuyoscar/gpt_image_2_skill",
+    "description": "GPT Image 2 prompt gallery, image prompt library, agentic skill, and CLI for OpenAI image generation/editing",
+    "language": "Python",
+    "license": "NOASSERTION",
+    "stars": 721,
+    "updated_at": "2026-04-27T06:39:32Z"
+  },
+  {
+    "full_name": "ZeroLu/awesome-gpt-image",
+    "html_url": "https://github.com/ZeroLu/awesome-gpt-image",
+    "description": "A curated collection of the best GPT Image 2 prompts and examples. The prompts come from top creators on X.",
+    "language": "Python",
+    "license": "MIT",
+    "stars": 716,
+    "updated_at": "2026-04-27T06:45:31Z"
+  },
+  {
+    "full_name": "CookSleep/gpt_image_playground",
+    "html_url": "https://github.com/CookSleep/gpt_image_playground",
+    "description": "基于 OpenAI gpt-image-2 接口的图片生成与编辑工具",
+    "language": "TypeScript",
+    "license": "MIT",
+    "stars": 280,
+    "updated_at": "2026-04-27T06:35:45Z"
+  },
+  {
+    "full_name": "bubblesslayyer-cmd/Awesome-GPT-Image-2-OpenAi",
+    "html_url": "https://github.com/bubblesslayyer-cmd/Awesome-GPT-Image-2-OpenAi",
+    "description": "The Definitive GPT Image 2 Prompt Vault — Master OpenAI's next-gen model with curated prompts for pixel-perfect text, consistent characters, and professional-grade assets. Optimized for creators and developers.",
+    "language": "TypeScript",
+    "license": "MIT",
+    "stars": 151,
+    "updated_at": "2026-04-27T06:04:28Z"
+  },
+  {
+    "full_name": "alasano/gpt-image-playground",
+    "html_url": "https://github.com/alasano/gpt-image-playground",
+    "description": "A web-based playground for OpenAI's GPT image models (gpt-image-2, gpt-image-1.5, gpt-image-1, gpt-image-1-mini) to generate and edit images.",
+    "language": "TypeScript",
+    "license": "MIT",
+    "stars": 150,
+    "updated_at": "2026-04-27T02:13:37Z"
+  },
+  {
+    "full_name": "dongyubin/Awesome-AI-Images-Prompts",
+    "html_url": "https://github.com/dongyubin/Awesome-AI-Images-Prompts",
+    "description": "2026年4月更新，精选适用于 GPT Image 2、Gemini Nano-banana Pro Image Prompts、即梦、豆包 Seedream 4.0、Hunyuan 3.0、ChatGPT-4o、Grok Image、FLUX、Ideogram、Imagen、Leonardo Ai、Midjourney、Seedance 2.0等AI生图大模型的提示词",
+    "language": "—",
+    "license": "—",
+    "stars": 109,
+    "updated_at": "2026-04-27T06:41:59Z"
+  },
+  {
+    "full_name": "lidge-jun/ima2-gen",
+    "html_url": "https://github.com/lidge-jun/ima2-gen",
+    "description": "Minimal CLI + web UI for OpenAI GPT Image 2 generation. Dual auth: API Key (paid) or OAuth via ChatGPT (free). Text-to-image, image-to-image, parallel gen, custom sizes.",
+    "language": "JavaScript",
+    "license": "—",
+    "stars": 92,
+    "updated_at": "2026-04-27T05:38:54Z"
+  },
+  {
+    "full_name": "Shannon4Science/NanaDraw",
+    "html_url": "https://github.com/Shannon4Science/NanaDraw",
+    "description": "NanaDraw turns complex scientific ideas into clear, expressive visuals you can use right away. Powered by Nano Banana, it generates editable illustrations in formats like SVG, PPT, and XML.",
+    "language": "TypeScript",
+    "license": "NOASSERTION",
+    "stars": 77,
+    "updated_at": "2026-04-24T09:39:11Z"
+  },
+  {
+    "full_name": "JuneYaooo/gpt-image2-ppt-skills",
+    "html_url": "https://github.com/JuneYaooo/gpt-image2-ppt-skills",
+    "description": "Clone any .pptx into your own deck — OpenAI gpt-image-2 mimics the layout, you supply the content. 10 bundled styles. | 把任何 .pptx 模板\"抄\"成你的 PPT：gpt-image-2 仿版式、你换内容，另含 10 套精选风格。Claude Code / OpenClaw skill.",
+    "language": "Python",
+    "license": "Apache-2.0",
+    "stars": 67,
+    "updated_at": "2026-04-27T06:35:32Z"
+  },
+  {
+    "full_name": "NomaDamas/god-tibo-imagen",
+    "html_url": "https://github.com/NomaDamas/god-tibo-imagen",
+    "description": "Python & Node package to use GPT image 2.0 model via codex subscription",
+    "language": "JavaScript",
+    "license": "—",
+    "stars": 54,
+    "updated_at": "2026-04-27T05:52:18Z"
+  },
+  {
+    "full_name": "gpt-image2/awesome-gptimage2-prompts",
+    "html_url": "https://github.com/gpt-image2/awesome-gptimage2-prompts",
+    "description": "🚀 Curated GPT Image 2 800+ prompt library — pixel-perfect text rendering, cross-image consistency, and commercial-grade illustration. Free & open source.",
+    "language": "—",
+    "license": "—",
+    "stars": 54,
+    "updated_at": "2026-04-27T01:45:17Z"
+  },
+  {
+    "full_name": "EvoLinkAI/GPT-Image-2-Seedance2-Workflow",
+    "html_url": "https://github.com/EvoLinkAI/GPT-Image-2-Seedance2-Workflow",
+    "description": "GPT-image-2 and seedance2 workflows and prompt templates  to produce high-quality AI videos.",
+    "language": "—",
+    "license": "NOASSERTION",
+    "stars": 42,
+    "updated_at": "2026-04-27T06:44:41Z"
+  },
+  {
+    "full_name": "hypersocialinc/shots",
+    "html_url": "https://github.com/hypersocialinc/shots",
+    "description": "Claude Code/Agent Skill for making App Store Screenshot generator with GPT Image 2. Give it your App Store link & screenshots of your app and it will produce beautiful app store screenshots ready to upload to Apple (or Google)",
+    "language": "JavaScript",
+    "license": "—",
+    "stars": 42,
+    "updated_at": "2026-04-27T06:03:48Z"
+  },
+  {
+    "full_name": "xianyu110/awesome-gptimage2",
+    "html_url": "https://github.com/xianyu110/awesome-gptimage2",
+    "description": "GPT Image 2 是 OpenAI 的下一代 AI 图片模型——相较 GPT Image 1.5 实现重大飞跃，采用全新独立架构（非基于 GPT-4o）。近乎完美的文字渲染、卓越的世界知识、真实感输出品质，代表了 AI 图片生成的全新标准。",
+    "language": "HTML",
+    "license": "—",
+    "stars": 34,
+    "updated_at": "2026-04-27T03:01:21Z"
+  },
+  {
+    "full_name": "magiccreator-ai/awesome-gpt-image-2-prompts",
+    "html_url": "https://github.com/magiccreator-ai/awesome-gpt-image-2-prompts",
+    "description": "awesome gpt-image-2 prompts",
+    "language": "—",
+    "license": "—",
+    "stars": 32,
+    "updated_at": "2026-04-27T01:35:47Z"
+  },
+  {
+    "full_name": "Anil-matcha/gpt-image-2-comfyui",
+    "html_url": "https://github.com/Anil-matcha/gpt-image-2-comfyui",
+    "description": "ComfyUI custom nodes for GPT-Image-2 image generation via muapi.ai — text-to-image and image-to-image",
+    "language": "Python",
+    "license": "MIT",
+    "stars": 31,
+    "updated_at": "2026-04-25T14:38:53Z"
+  },
+  {
+    "full_name": "helloyangy/chatgpt2api-Tutorial",
+    "html_url": "https://github.com/helloyangy/chatgpt2api-Tutorial",
+    "description": "chatgpt2api反代gpt-image-2画图大模型，免费使用效果强大",
+    "language": "—",
+    "license": "—",
+    "stars": 30,
+    "updated_at": "2026-04-27T03:10:36Z"
+  },
+  {
+    "full_name": "robonuggets/gpt-image-2-skill",
+    "html_url": "https://github.com/robonuggets/gpt-image-2-skill",
+    "description": "GPT Image 2 (ChatGPT Images 2.0) skill for Claude Code — best-in-class typography, two endpoints (T2I + edit), Fal AI integration, structured-JSON prompting patterns",
+    "language": "—",
+    "license": "—",
+    "stars": 29,
+    "updated_at": "2026-04-26T20:21:16Z"
+  },
+  {
+    "full_name": "wjb127/codex-image",
+    "html_url": "https://github.com/wjb127/codex-image",
+    "description": "Claude Code skill for AI image generation via Codex CLI OAuth (gpt-image-2) / Codex CLI OAuth를 통한 AI 이미지 생성 Claude Code 스킬",
+    "language": "—",
+    "license": "MIT",
+    "stars": 28,
+    "updated_at": "2026-04-27T00:52:01Z"
+  },
+  {
+    "full_name": "peterRooo/awesome-gpt-image-2-prompts",
+    "html_url": "https://github.com/peterRooo/awesome-gpt-image-2-prompts",
+    "description": "A professional GPT Image 2 prompt library with 500 curated, copy-ready prompts, repository-hosted preview images, structured JSON/CSV exports, source attribution, and daily updates from GptImageLab.",
+    "language": "Python",
+    "license": "—",
+    "stars": 20,
+    "updated_at": "2026-04-27T02:44:18Z"
+  },
+  {
+    "full_name": "wuchubuzai2018/expert-skills-hub",
+    "html_url": "https://github.com/wuchubuzai2018/expert-skills-hub",
+    "description": "一些个人制作整理的AgentSkills技能仓库包，最新gpt-image-2 skills现在可用，nanobananapro的skills、微信文章搜索skills、。微信公众号关注：无处不在的技术",
+    "language": "JavaScript",
+    "license": "—",
+    "stars": 20,
+    "updated_at": "2026-04-26T06:44:33Z"
+  },
+  {
+    "full_name": "zhouwei713/gpt-image-2-prompting-skill",
+    "html_url": "https://github.com/zhouwei713/gpt-image-2-prompting-skill",
+    "description": "A high-quality GPT-Image-2 prompting skill with bilingual README, structured prompting methods, templates, and examples.",
+    "language": "—",
+    "license": "MIT",
+    "stars": 19,
+    "updated_at": "2026-04-27T06:17:06Z"
+  },
+  {
+    "full_name": "jiangmuran/claude-image",
+    "html_url": "https://github.com/jiangmuran/claude-image",
+    "description": "教 Claude Code/Codex 真正用好 gpt-image-2 的 skill 包 · Drop-in skill teaching agents to actually use GPT Image 2 — intent-first prompting, surgical edits, parallel batching, visual self-verification",
+    "language": "Python",
+    "license": "MIT",
+    "stars": 16,
+    "updated_at": "2026-04-27T05:51:38Z"
+  },
+  {
+    "full_name": "petergpt/gpt-image-360-babylon-walkthrough",
+    "html_url": "https://github.com/petergpt/gpt-image-360-babylon-walkthrough",
+    "description": "GPT Image 2 generated 360 panorama walkthrough of Babylon's Hanging Gardens",
+    "language": "JavaScript",
+    "license": "MIT",
+    "stars": 16,
+    "updated_at": "2026-04-26T22:32:38Z"
+  },
+  {
+    "full_name": "moosl/awsome-gpt-image-2-prompts",
+    "html_url": "https://github.com/moosl/awsome-gpt-image-2-prompts",
+    "description": "—",
+    "language": "—",
+    "license": "MIT",
+    "stars": 12,
+    "updated_at": "2026-04-27T03:49:08Z"
+  },
+  {
+    "full_name": "smixs/visual-skills",
+    "html_url": "https://github.com/smixs/visual-skills",
+    "description": "Professional Claude Skills for AI image and video prompting. Supports Nano Banana (Gemini 3 Pro/Flash), GPT Image 2, Seedance 2.0, Kling 3.0 (multi-shot + native dialogue), Veo. Works with Claude Code, Cursor, Windsurf, OpenCode, Hermes-agent.",
+    "language": "—",
+    "license": "MIT",
+    "stars": 12,
+    "updated_at": "2026-04-26T20:26:58Z"
+  },
+  {
+    "full_name": "Wangnov/gpt-image-2-skill",
+    "html_url": "https://github.com/Wangnov/gpt-image-2-skill",
+    "description": "Agent-first GPT Image 2 CLI and installable skill for OPENAI_API_KEY or Codex auth.json.",
+    "language": "Rust",
+    "license": "MIT",
+    "stars": 11,
+    "updated_at": "2026-04-27T06:41:55Z"
+  },
+  {
+    "full_name": "JuneYaooo/xhs-writer-skill",
+    "html_url": "https://github.com/JuneYaooo/xhs-writer-skill",
+    "description": "小红书爆款笔记生成器，基于gpt-image-2，强力超快生成，自然语言修改，超好用！",
+    "language": "Python",
+    "license": "Apache-2.0",
+    "stars": 11,
+    "updated_at": "2026-04-27T02:43:08Z"
+  },
+  {
+    "full_name": "nateherkai/gpt-image-2-vs-nano-banana-2",
+    "html_url": "https://github.com/nateherkai/gpt-image-2-vs-nano-banana-2",
+    "description": "Head-to-head benchmark of GPT Image 2 vs Nano Banana 2, judged by Claude Opus 4.7. Student template for an AI engineering course.",
+    "language": "TypeScript",
+    "license": "—",
+    "stars": 11,
+    "updated_at": "2026-04-24T08:05:46Z"
+  },
+  {
+    "full_name": "underwoodxie/promptsref-gpt-image-prompts",
+    "html_url": "https://github.com/underwoodxie/promptsref-gpt-image-prompts",
+    "description": "Discover the best GPT Image 2 prompt collection for AI image and video generation.",
+    "language": "—",
+    "license": "—",
+    "stars": 9,
+    "updated_at": "2026-04-27T02:39:53Z"
+  },
+  {
+    "full_name": "itgoyo/awesome-gpt-image2",
+    "html_url": "https://github.com/itgoyo/awesome-gpt-image2",
+    "description": "A bilingual awesome list of GPT-Image-2 related GitHub repositories",
+    "language": "—",
+    "license": "—",
+    "stars": 8,
+    "updated_at": "2026-04-26T15:26:39Z"
+  },
+  {
+    "full_name": "SwiftSteed/Awesome-ChatGPT-Image",
+    "html_url": "https://github.com/SwiftSteed/Awesome-ChatGPT-Image",
+    "description": "🎨 A curated list of amazing ChatGPT Image 2.0 generation prompts. Master the art of AI visual creation with categorized, high-quality prompts and techniques.",
+    "language": "—",
+    "license": "—",
+    "stars": 8,
+    "updated_at": "2026-04-25T22:01:30Z"
+  },
+  {
+    "full_name": "junyeo217/codex-gpt-image-2-skill",
+    "html_url": "https://github.com/junyeo217/codex-gpt-image-2-skill",
+    "description": "GPT Image 2 prompt and workflow skill for Codex",
+    "language": "Python",
+    "license": "MIT",
+    "stars": 7,
+    "updated_at": "2026-04-27T04:28:48Z"
+  },
+  {
+    "full_name": "ChaosRealmsAI/gpt-image-2-gallery",
+    "html_url": "https://github.com/ChaosRealmsAI/gpt-image-2-gallery",
+    "description": "AI image inspiration atlas · 3,800+ GPT-Image-2 works across 445 themes with full copy-paste prompts · MIT + CC BY 4.0",
+    "language": "JavaScript",
+    "license": "MIT",
+    "stars": 7,
+    "updated_at": "2026-04-27T03:53:40Z"
+  },
+  {
+    "full_name": "Toolify-AI/awesome-gpt-image-2-prompts",
+    "html_url": "https://github.com/Toolify-AI/awesome-gpt-image-2-prompts",
+    "description": "A curated repository of GPT Image 2 prompts collected from early public social posts and Toolify, organized into a multilingual awesome-style prompt library.",
+    "language": "—",
+    "license": "MIT",
+    "stars": 7,
+    "updated_at": "2026-04-26T11:18:12Z"
+  },
+  {
+    "full_name": "fchangjun/AI-Zero-Token",
+    "html_url": "https://github.com/fchangjun/AI-Zero-Token",
+    "description": "Local-first OpenAI-compatible AI CLI and gateway with Codex OAuth, multi-account management, and gpt-image-2 image generation.",
+    "language": "TypeScript",
+    "license": "MIT",
+    "stars": 7,
+    "updated_at": "2026-04-24T13:02:53Z"
+  },
+  {
+    "full_name": "Hostingglobal-Tech/daedal",
+    "html_url": "https://github.com/Hostingglobal-Tech/daedal",
+    "description": "Tiny Rust CLI for OpenAI gpt-image-2 — single static binary, no SDK",
+    "language": "Rust",
+    "license": "MIT",
+    "stars": 6,
+    "updated_at": "2026-04-24T06:51:24Z"
+  },
+  {
+    "full_name": "funAgent/city-publicity",
+    "html_url": "https://github.com/funAgent/city-publicity",
+    "description": "2026 新疆 42 城国潮风格 AI 宣传海报 — gpt image 2 生图｜Guochao-style AI city publicity posters for 42 cities in Xinjiang — prompts &  GPT image 2 generated   images",
+    "language": "HTML",
+    "license": "—",
+    "stars": 6,
+    "updated_at": "2026-04-22T10:28:00Z"
+  },
+  {
+    "full_name": "Mocairo/GPT-Image-2-Studio",
+    "html_url": "https://github.com/Mocairo/GPT-Image-2-Studio",
+    "description": "—",
+    "language": "Python",
+    "license": "MIT",
+    "stars": 5,
+    "updated_at": "2026-04-27T04:05:24Z"
+  },
+  {
+    "full_name": "cliprise/awesome-gpt-image-2-prompts",
+    "html_url": "https://github.com/cliprise/awesome-gpt-image-2-prompts",
+    "description": "GPT Image 2 prompts, ChatGPT Images 2.0 workflows, AI image generation examples, editing prompts, product visuals and Cliprise resources.",
+    "language": "—",
+    "license": "—",
+    "stars": 5,
+    "updated_at": "2026-04-26T11:40:52Z"
+  },
+  {
+    "full_name": "AgentGrowing/chatGPT-image-2-SKILL",
+    "html_url": "https://github.com/AgentGrowing/chatGPT-image-2-SKILL",
+    "description": "—",
+    "language": "—",
+    "license": "—",
+    "stars": 5,
+    "updated_at": "2026-04-26T10:59:46Z"
+  },
+  {
+    "full_name": "ToseaAI/awesome-gpt-image-2-prompts",
+    "html_url": "https://github.com/ToseaAI/awesome-gpt-image-2-prompts",
+    "description": "60 production-grade prompts for OpenAI's GPT Image 2 - curated, bilingual, fully source-attributed. Live previews on Tosea.ai.",
+    "language": "Python",
+    "license": "NOASSERTION",
+    "stars": 5,
+    "updated_at": "2026-04-25T06:45:04Z"
+  },
+  {
+    "full_name": "FURUYAN1234/nano-banana-pro",
+    "html_url": "https://github.com/FURUYAN1234/nano-banana-pro",
+    "description": "# Manga-Autonoma (powered by nano-banana-2)　Autonomous AI 4-panel manga production system using Gemini API. / Gemini APIを活用した、Nano Banana 2 and ChatGPT image 2.0対応の完全自律型AI4コママンガ制作システム。",
+    "language": "Python",
+    "license": "—",
+    "stars": 4,
+    "updated_at": "2026-04-27T06:41:56Z"
+  },
+  {
+    "full_name": "davidwuw0811-boop/awesome-gpt-image2-prompts",
+    "html_url": "https://github.com/davidwuw0811-boop/awesome-gpt-image2-prompts",
+    "description": "GPT Image 2 提示词大全 | 408条精选提示词 | 中英文搜索 | 分类筛选 | 一键复制",
+    "language": "HTML",
+    "license": "—",
+    "stars": 4,
+    "updated_at": "2026-04-27T04:29:53Z"
+  },
+  {
+    "full_name": "JoeSai/awesome-gpt-image-2-commercial-prompts",
+    "html_url": "https://github.com/JoeSai/awesome-gpt-image-2-commercial-prompts",
+    "description": "A professional open-source GPT-Image-2 prompt library focused on e-commerce, product storytelling, and conversion-driven visual production.",
+    "language": "—",
+    "license": "MIT",
+    "stars": 4,
+    "updated_at": "2026-04-27T03:38:53Z"
+  },
+  {
+    "full_name": "dshark3y/gpt-image-2-skill",
+    "html_url": "https://github.com/dshark3y/gpt-image-2-skill",
+    "description": "Claude Code skill for generating and editing images with OpenAI's gpt-image-2",
+    "language": "Python",
+    "license": "—",
+    "stars": 4,
+    "updated_at": "2026-04-26T23:27:39Z"
+  },
+  {
+    "full_name": "IanShaw027/codex-image",
+    "html_url": "https://github.com/IanShaw027/codex-image",
+    "description": "Codex skill for OpenAI Images API generation and editing in API key mode",
+    "language": "Python",
+    "license": "MIT",
+    "stars": 4,
+    "updated_at": "2026-04-25T11:06:40Z"
+  },
+  {
+    "full_name": "workboy/gpt-image-2",
+    "html_url": "https://github.com/workboy/gpt-image-2",
+    "description": "适用于openclaw等agent的gpt-image-2生图skills",
+    "language": "Python",
+    "license": "Apache-2.0",
+    "stars": 4,
+    "updated_at": "2026-04-23T16:39:42Z"
+  },
+  {
+    "full_name": "ningzimu/codex-ppt-skill",
+    "html_url": "https://github.com/ningzimu/codex-ppt-skill",
+    "description": "Codex skill for generating image-based PowerPoint decks with gpt-image-2",
+    "language": "Python",
+    "license": "MIT",
+    "stars": 3,
+    "updated_at": "2026-04-27T00:57:04Z"
+  },
+  {
+    "full_name": "jf546897/AI-Image-2",
+    "html_url": "https://github.com/jf546897/AI-Image-2",
+    "description": "适用于本地调用gpt-image-2模型制作图片",
+    "language": "Python",
+    "license": "MIT",
+    "stars": 3,
+    "updated_at": "2026-04-26T16:42:53Z"
+  },
+  {
+    "full_name": "houht1013/gpt-image2-skill",
+    "html_url": "https://github.com/houht1013/gpt-image2-skill",
+    "description": "gpt-image2-skill",
+    "language": "JavaScript",
+    "license": "—",
+    "stars": 3,
+    "updated_at": "2026-04-26T14:24:38Z"
+  },
+  {
+    "full_name": "jokooooooo/gpt-image-2-codex-2api",
+    "html_url": "https://github.com/jokooooooo/gpt-image-2-codex-2api",
+    "description": "—",
+    "language": "JavaScript",
+    "license": "—",
+    "stars": 3,
+    "updated_at": "2026-04-26T13:23:28Z"
+  },
+  {
+    "full_name": "siqili723547-ui/anime-fanart-imagegen",
+    "html_url": "https://github.com/siqili723547-ui/anime-fanart-imagegen",
+    "description": "—",
+    "language": "Python",
+    "license": "—",
+    "stars": 3,
+    "updated_at": "2026-04-26T07:29:22Z"
+  },
+  {
+    "full_name": "ChaosRealmsAI/gpt-image-2-hub",
+    "html_url": "https://github.com/ChaosRealmsAI/gpt-image-2-hub",
+    "description": "GPT-Image-2 prompt atlas · 1,400+ ChatGPT Images 2.0 works with full copy-paste prompts across 178 themes",
+    "language": "JavaScript",
+    "license": "—",
+    "stars": 3,
+    "updated_at": "2026-04-26T02:38:39Z"
+  },
+  {
+    "full_name": "Borys520/gpt-image-2-mcp",
+    "html_url": "https://github.com/Borys520/gpt-image-2-mcp",
+    "description": "MCP server exposing OpenAI's gpt-image-2 for image generation and iterative editing",
+    "language": "TypeScript",
+    "license": "MIT",
+    "stars": 3,
+    "updated_at": "2026-04-24T05:07:49Z"
+  },
+  {
+    "full_name": "aitools12/awesome-gpt-image-2",
+    "html_url": "https://github.com/aitools12/awesome-gpt-image-2",
+    "description": "Curated GPT Image 2 prompts, examples, posters, UI mockups, infographics, and source-attributed case studies.",
+    "language": "—",
+    "license": "MIT",
+    "stars": 3,
+    "updated_at": "2026-04-23T06:21:14Z"
+  },
+  {
+    "full_name": "cf12436/gpt2_images",
+    "html_url": "https://github.com/cf12436/gpt2_images",
+    "description": "A curated GPT-Image-2 prompt showcase for DuctTape3, featuring image workflow references, prompt examples, and visual case studies.",
+    "language": "Python",
+    "license": "NOASSERTION",
+    "stars": 2,
+    "updated_at": "2026-04-27T02:24:46Z"
+  },
+  {
+    "full_name": "erickkkyt/awesome-gptimage2-prompts",
+    "html_url": "https://github.com/erickkkyt/awesome-gptimage2-prompts",
+    "description": "A curated GPT-Image-2 prompt library with preview images and copy-ready prompts. OpenAI image generation. Free & open source.",
+    "language": "Python",
+    "license": "NOASSERTION",
+    "stars": 2,
+    "updated_at": "2026-04-26T23:37:07Z"
+  },
+  {
+    "full_name": "RamlyBurger/gpt-image-2-mcp",
+    "html_url": "https://github.com/RamlyBurger/gpt-image-2-mcp",
+    "description": "Local MCP server for ChatGPT image generation.",
+    "language": "TypeScript",
+    "license": "MIT",
+    "stars": 2,
+    "updated_at": "2026-04-26T23:31:43Z"
+  },
+  {
+    "full_name": "jacwu/demo-gpt-image-2",
+    "html_url": "https://github.com/jacwu/demo-gpt-image-2",
+    "description": "—",
+    "language": "—",
+    "license": "—",
+    "stars": 2,
+    "updated_at": "2026-04-26T10:29:08Z"
+  },
+  {
+    "full_name": "ianlintner/ai-pixel-art-image-generation",
+    "html_url": "https://github.com/ianlintner/ai-pixel-art-image-generation",
+    "description": "AI Claude Code Skill: GPT-Image-2, Foundry, Gemini Game Development Pixel Art, Sprite & Tilemap Image Generation",
+    "language": "Python",
+    "license": "MIT",
+    "stars": 2,
+    "updated_at": "2026-04-26T08:35:02Z"
+  },
+  {
+    "full_name": "xigua222/prompt-gallery",
+    "html_url": "https://github.com/xigua222/prompt-gallery",
+    "description": "Curated high-quality AI image prompts for Midjourney, Stable Diffusion, FLUX, GPT-Image2, Gemini/Nano Banana, seedream & more. 严选高质量 AI 生图 Prompt 灵感库，适合设计、插画、海报、角色与商业视觉创作。",
+    "language": "TypeScript",
+    "license": "NOASSERTION",
+    "stars": 2,
+    "updated_at": "2026-04-26T08:26:32Z"
+  },
+  {
+    "full_name": "kianaliang-dev/drama-director-skill",
+    "html_url": "https://github.com/kianaliang-dev/drama-director-skill",
+    "description": "One API key, two calls: GPT Image 2 + Seedance 2.0 comic-drama workflow skill.",
+    "language": "Python",
+    "license": "MIT",
+    "stars": 2,
+    "updated_at": "2026-04-26T07:04:02Z"
+  },
+  {
+    "full_name": "XiaoAI1024/gpt-image-2-api-skill",
+    "html_url": "https://github.com/XiaoAI1024/gpt-image-2-api-skill",
+    "description": "—",
+    "language": "—",
+    "license": "—",
+    "stars": 2,
+    "updated_at": "2026-04-25T23:47:58Z"
+  },
+  {
+    "full_name": "vdruts/ChatGPT-Image-2",
+    "html_url": "https://github.com/vdruts/ChatGPT-Image-2",
+    "description": "Claude Code skill for OpenAI gpt-image-2: editorial typography, multi-image composition, text-heavy infographics.",
+    "language": "JavaScript",
+    "license": "MIT",
+    "stars": 2,
+    "updated_at": "2026-04-25T03:41:04Z"
+  },
+  {
+    "full_name": "monaican/comic-lens",
+    "html_url": "https://github.com/monaican/comic-lens",
+    "description": "自动烤肉机！基于GPT Image 2 的漫画翻译工具，在保留原作字体风格的情况下完成精准翻译.",
+    "language": "TypeScript",
+    "license": "MIT",
+    "stars": 2,
+    "updated_at": "2026-04-24T15:18:36Z"
+  },
+  {
+    "full_name": "tsjdev-apps/ai-image-generation-console",
+    "html_url": "https://github.com/tsjdev-apps/ai-image-generation-console",
+    "description": "Interactive console app for AI image generation with Azure OpenAI, OpenAI and Google AI. Supports gpt-image-1, gpt-image-1-mini, gpt-image-1.5, gpt-image-2, gemini-2.5-flash-image and gemini-3-pro-image-preview. Built with .NET 10 & Spectre.Console.",
+    "language": "C#",
+    "license": "MIT",
+    "stars": 2,
+    "updated_at": "2026-04-24T13:42:06Z"
+  },
+  {
+    "full_name": "kitephp/gpt-image-2-studio",
+    "html_url": "https://github.com/kitephp/gpt-image-2-studio",
+    "description": "GPT Image 2 Studio 是一个本地优先的 gpt-image-2 单页图像生成工作台。它可以直接打开 index.html 使用，不需要后端、构建步骤、包管理器或本地服务。",
+    "language": "HTML",
+    "license": "MIT",
+    "stars": 2,
+    "updated_at": "2026-04-23T05:13:12Z"
+  },
+  {
+    "full_name": "joonlab/gpt-image-2-review-by-joonlab",
+    "html_url": "https://github.com/joonlab/gpt-image-2-review-by-joonlab",
+    "description": "OpenAI gpt-image-2 (ChatGPT Images 2.0) 실측 리뷰 & API 가이드 — 16장 테스트 결과와 Next.js 리뷰 사이트",
+    "language": "Python",
+    "license": "—",
+    "stars": 2,
+    "updated_at": "2026-04-22T14:22:43Z"
+  },
+  {
+    "full_name": "oakplank/claude-gpt-image-bridge",
+    "html_url": "https://github.com/oakplank/claude-gpt-image-bridge",
+    "description": "Give Claude Code image generation by bridging to OpenAI's gpt-image-2 through the codex CLI. Uses your ChatGPT sub, no API key.",
+    "language": "Shell",
+    "license": "MIT",
+    "stars": 1,
+    "updated_at": "2026-04-27T01:31:52Z"
+  },
+  {
+    "full_name": "rsensui2/tekion-slide-generator",
+    "html_url": "https://github.com/rsensui2/tekion-slide-generator",
+    "description": "TEKION Slide Generator v4 — AI-driven presentation slide generator (OpenAI GPT-image-2 / Gemini 3.1 Flash). Markdown → 16:9 2K slides → PPTX/PDF. Provider abstraction, Visual/Balanced styles, logo integrity, reference image support.",
+    "language": "Python",
+    "license": "MIT",
+    "stars": 1,
+    "updated_at": "2026-04-27T01:28:46Z"
+  },
+  {
+    "full_name": "susongyuan/gpt-image-2",
+    "html_url": "https://github.com/susongyuan/gpt-image-2",
+    "description": "A Python CLI example for generating images with a GPT Image-compatible API.",
+    "language": "Python",
+    "license": "MIT",
+    "stars": 1,
+    "updated_at": "2026-04-27T01:05:37Z"
+  },
+  {
+    "full_name": "ai-fzx/fzx_daihuo_prompt_skill",
+    "html_url": "https://github.com/ai-fzx/fzx_daihuo_prompt_skill",
+    "description": "根据图片生成带货提示词，包含gpt-image2和seedance 2的提示词",
+    "language": "JavaScript",
+    "license": "—",
+    "stars": 1,
+    "updated_at": "2026-04-27T01:01:34Z"
+  },
+  {
+    "full_name": "lanbinleo/pictu",
+    "html_url": "https://github.com/lanbinleo/pictu",
+    "description": "P个图，一款由OpenAI GPT-Image-2 驱动的对话式图像修改/生成网站。移动端支持。",
+    "language": "Go",
+    "license": "MIT",
+    "stars": 1,
+    "updated_at": "2026-04-26T15:58:37Z"
+  },
+  {
+    "full_name": "xiaopengs/gpt-image2-prompt-masterclass",
+    "html_url": "https://github.com/xiaopengs/gpt-image2-prompt-masterclass",
+    "description": "🎨 GPT Image 2 提示词大师课 — 零基础到大师，55000+字完整教程，含美学描述、专业词汇、100+案例分析",
+    "language": "—",
+    "license": "NOASSERTION",
+    "stars": 1,
+    "updated_at": "2026-04-26T08:29:01Z"
+  },
+  {
+    "full_name": "hisobery/image_generator_for_test",
+    "html_url": "https://github.com/hisobery/image_generator_for_test",
+    "description": "该脚本通过调用图像生成接口（gpt-image-2 模型），将文本提示词和可选的参考图片生成新图像，并将返回的图片自动下载保存到本地。 主要步骤包括：  将本地参考图片读取并编码为 Base64 字符串； 组装请求体，指定模型、提示词、画面比例、质量等参数； 发送 POST 请求，解析 JSON 响应，提取生成图片的 URL； 下载图片并以 image_时间戳.png 格式保存到脚本同目录下的 generated_images 文件夹中。",
+    "language": "Python",
+    "license": "—",
+    "stars": 1,
+    "updated_at": "2026-04-26T07:48:11Z"
+  },
+  {
+    "full_name": "15863004186sunchi/gpt-image2-tools",
+    "html_url": "https://github.com/15863004186sunchi/gpt-image2-tools",
+    "description": "gpt image2 generate image tools",
+    "language": "TypeScript",
+    "license": "—",
+    "stars": 1,
+    "updated_at": "2026-04-26T06:49:03Z"
+  },
+  {
+    "full_name": "imgx-studio/gpt-image-2-webui",
+    "html_url": "https://github.com/imgx-studio/gpt-image-2-webui",
+    "description": "—",
+    "language": "TypeScript",
+    "license": "—",
+    "stars": 1,
+    "updated_at": "2026-04-26T05:25:56Z"
+  },
+  {
+    "full_name": "Kuzat/pi-extension-gpt-image-2",
+    "html_url": "https://github.com/Kuzat/pi-extension-gpt-image-2",
+    "description": "Pi extension that adds a gpt_image_2_generate tool",
+    "language": "TypeScript",
+    "license": "MIT",
+    "stars": 1,
+    "updated_at": "2026-04-25T13:49:17Z"
+  },
+  {
+    "full_name": "917940234/PaperBanana-CN",
+    "html_url": "https://github.com/917940234/PaperBanana-CN",
+    "description": "Bilingual academic figure workbench with GPT-5.5, GPT-Image-2, Gemini, and gateway-compatible routing",
+    "language": "Python",
+    "license": "Apache-2.0",
+    "stars": 1,
+    "updated_at": "2026-04-24T12:11:57Z"
+  },
+  {
+    "full_name": "vanch007/gpt-image-2-skill",
+    "html_url": "https://github.com/vanch007/gpt-image-2-skill",
+    "description": "—",
+    "language": "Python",
+    "license": "—",
+    "stars": 1,
+    "updated_at": "2026-04-24T11:41:18Z"
+  },
+  {
+    "full_name": "longyunfeigu/awesome-gpt-image-2-skill",
+    "html_url": "https://github.com/longyunfeigu/awesome-gpt-image-2-skill",
+    "description": "Curated gpt-image-2 prompt library (198 cases from community awesome lists), packaged as a Codex    skill with tag-based retrieval and auto-sync.",
+    "language": "Python",
+    "license": "—",
+    "stars": 1,
+    "updated_at": "2026-04-24T09:44:36Z"
+  },
+  {
+    "full_name": "buildnewapp/GptImage2Api",
+    "html_url": "https://github.com/buildnewapp/GptImage2Api",
+    "description": "—",
+    "language": "TypeScript",
+    "license": "—",
+    "stars": 1,
+    "updated_at": "2026-04-24T08:45:37Z"
+  },
+  {
+    "full_name": "gpt-image-2/gpt-image-2",
+    "html_url": "https://github.com/gpt-image-2/gpt-image-2",
+    "description": "—",
+    "language": "—",
+    "license": "—",
+    "stars": 1,
+    "updated_at": "2026-04-24T07:20:15Z"
+  },
+  {
+    "full_name": "doducan71037-hue/gpt-image-2-prompts",
+    "html_url": "https://github.com/doducan71037-hue/gpt-image-2-prompts",
+    "description": "—",
+    "language": "—",
+    "license": "NOASSERTION",
+    "stars": 1,
+    "updated_at": "2026-04-24T05:46:46Z"
+  },
+  {
+    "full_name": "aymenbouferroum/gpt-imagen",
+    "html_url": "https://github.com/aymenbouferroum/gpt-imagen",
+    "description": "Claude Code plugin marketplace for GPT Image 2-first image generation and editing workflows",
+    "language": "Python",
+    "license": "MIT",
+    "stars": 1,
+    "updated_at": "2026-04-23T12:52:17Z"
+  },
+  {
+    "full_name": "StarRoadlu/gpt-image-2-gallery",
+    "html_url": "https://github.com/StarRoadlu/gpt-image-2-gallery",
+    "description": "A gallery repository for GPT-Image-2 generated images, prompts, and visual experiments.",
+    "language": "Python",
+    "license": "—",
+    "stars": 1,
+    "updated_at": "2026-04-23T12:43:07Z"
+  },
+  {
+    "full_name": "SeraphNANA/trae-GPTimage2-anli",
+    "html_url": "https://github.com/SeraphNANA/trae-GPTimage2-anli",
+    "description": "GPT image 2 优秀案例搜集、展示、提示词拆解，定期更新。",
+    "language": "HTML",
+    "license": "—",
+    "stars": 1,
+    "updated_at": "2026-04-23T09:47:50Z"
+  },
+  {
+    "full_name": "nano-banana-2-ai/gpt-image-2",
+    "html_url": "https://github.com/nano-banana-2-ai/gpt-image-2",
+    "description": "GPT Image 2 API tutorial, examples, and SDK. Learn how to use GPT Image 2 for AI image generation, editing.",
+    "language": "TypeScript",
+    "license": "—",
+    "stars": 1,
+    "updated_at": "2026-04-23T08:11:29Z"
+  },
+  {
+    "full_name": "nanobanana-co/gptimg2",
+    "html_url": "https://github.com/nanobanana-co/gptimg2",
+    "description": "Next-Gen AI Image Creation with GPT Image 2",
+    "language": "—",
+    "license": "—",
+    "stars": 1,
+    "updated_at": "2026-04-23T06:58:59Z"
+  },
+  {
+    "full_name": "DiJamesBond/gpt-image-2-skill",
+    "html_url": "https://github.com/DiJamesBond/gpt-image-2-skill",
+    "description": "—",
+    "language": "—",
+    "license": "MIT",
+    "stars": 1,
+    "updated_at": "2026-04-22T20:48:23Z"
+  },
+  {
+    "full_name": "ApiMartAI/best-gpt-image-2-prompts",
+    "html_url": "https://github.com/ApiMartAI/best-gpt-image-2-prompts",
+    "description": "A curated gallery of 107 high-quality GPT-Image-2 prompts — portraits, posters, character sheets, UI mockups. Click any image to try on APIMart.",
+    "language": "Python",
+    "license": "NOASSERTION",
+    "stars": 1,
+    "updated_at": "2026-04-22T17:16:20Z"
+  },
+  {
+    "full_name": "aitools12/How-to-use-gpt-image-2",
+    "html_url": "https://github.com/aitools12/How-to-use-gpt-image-2",
+    "description": "GPT Image 2 Dev is an AI image generator and editor with official links, pricing, showcase, and package metadata.",
+    "language": "HTML",
+    "license": "—",
+    "stars": 1,
+    "updated_at": "2026-04-22T15:03:15Z"
+  },
+  {
+    "full_name": "Albert-Lsk/alskai-image2",
+    "html_url": "https://github.com/Albert-Lsk/alskai-image2",
+    "description": "—",
+    "language": "Python",
+    "license": "MIT",
+    "stars": 1,
+    "updated_at": "2026-04-22T07:45:37Z"
+  },
+  {
+    "full_name": "ilkerzg/comic-studio",
+    "html_url": "https://github.com/ilkerzg/comic-studio",
+    "description": "Direct a whole comic with one brief. Styles, 1-4 characters, up to 50 panels, openai/gpt-image-2 on fal. Flipbook reader on the other side.",
+    "language": "TypeScript",
+    "license": "—",
+    "stars": 1,
+    "updated_at": "2026-04-22T06:16:43Z"
+  },
+  {
+    "full_name": "ilkerzg/gpt-image-2-prompts",
+    "html_url": "https://github.com/ilkerzg/gpt-image-2-prompts",
+    "description": "—",
+    "language": "TypeScript",
+    "license": "NOASSERTION",
+    "stars": 1,
+    "updated_at": "2026-04-22T02:18:05Z"
+  },
+  {
+    "full_name": "amrrs/chatgpt-images-2-api",
+    "html_url": "https://github.com/amrrs/chatgpt-images-2-api",
+    "description": "This is an unofficial python wrapper for chatgpt images 2 api (aka GPT Image 2.0 API)",
+    "language": "Python",
+    "license": "MIT",
+    "stars": 1,
+    "updated_at": "2026-04-21T23:38:18Z"
+  },
+  {
+    "full_name": "jokooooooo/syber-gpt-image-2",
+    "html_url": "https://github.com/jokooooooo/syber-gpt-image-2",
+    "description": "syber-gpt-image-2",
+    "language": "Python",
+    "license": "—",
+    "stars": 0,
+    "updated_at": "2026-04-27T06:44:31Z"
+  },
+  {
+    "full_name": "OdneBontemps/hrimgszynq",
+    "html_url": "https://github.com/OdneBontemps/hrimgszynq",
+    "description": "This repo collects all the upscaled images from ZYNQ, coming from GPT image 2",
+    "language": "—",
+    "license": "—",
+    "stars": 0,
+    "updated_at": "2026-04-27T06:38:42Z"
+  },
+  {
+    "full_name": "StartripAI/gpt-image-2.0-workbench",
+    "html_url": "https://github.com/StartripAI/gpt-image-2.0-workbench",
+    "description": "Spec-first gpt-image-2 workbench: bilingual prompt packs, CLI/Skill workflows, cost estimates, preflight validation, and run ledger.",
+    "language": "Python",
+    "license": "Apache-2.0",
+    "stars": 0,
+    "updated_at": "2026-04-27T06:32:16Z"
+  },
+  {
+    "full_name": "ai-fzx/fzx-GPT-Image2-prompt",
+    "html_url": "https://github.com/ai-fzx/fzx-GPT-Image2-prompt",
+    "description": "收藏gpt-image-2优质提示词",
+    "language": "Python",
+    "license": "NOASSERTION",
+    "stars": 0,
+    "updated_at": "2026-04-27T06:18:56Z"
+  },
+  {
+    "full_name": "ArcDent/gpt-img2-mcp",
+    "html_url": "https://github.com/ArcDent/gpt-img2-mcp",
+    "description": "Lightweight OpenCode MCP server for CPA GPT Image 2 image generation.",
+    "language": "JavaScript",
+    "license": "—",
+    "stars": 0,
+    "updated_at": "2026-04-27T06:07:50Z"
+  },
+  {
+    "full_name": "zephyrwang6/space-GPT-image2-design",
+    "html_url": "https://github.com/zephyrwang6/space-GPT-image2-design",
+    "description": "—",
+    "language": "Python",
+    "license": "—",
+    "stars": 0,
+    "updated_at": "2026-04-27T05:57:48Z"
+  },
+  {
+    "full_name": "colin-automates/Codex-ImageGen--Claude-Code",
+    "html_url": "https://github.com/colin-automates/Codex-ImageGen--Claude-Code",
+    "description": "A Claude Code plugin that generates images via OpenAI Codex CLI's built-in gpt-image — billed against your ChatGPT plan, no API key, no per-image charges. Auto-activates whenever your task involves a missing image",
+    "language": "TypeScript",
+    "license": "MIT",
+    "stars": 0,
+    "updated_at": "2026-04-27T05:52:14Z"
+  },
+  {
+    "full_name": "asfarsadewa/athena-windows-companion-demo",
+    "html_url": "https://github.com/asfarsadewa/athena-windows-companion-demo",
+    "description": "Windows companion - based on GPT 5.5, gpt-image-2 and voice agent models",
+    "language": "C#",
+    "license": "—",
+    "stars": 0,
+    "updated_at": "2026-04-27T05:33:16Z"
+  },
+  {
+    "full_name": "xxvv/gpt-image-2-web",
+    "html_url": "https://github.com/xxvv/gpt-image-2-web",
+    "description": "—",
+    "language": "TypeScript",
+    "license": "—",
+    "stars": 0,
+    "updated_at": "2026-04-27T05:31:36Z"
+  },
+  {
+    "full_name": "kazuph/gpt-image-2-samples",
+    "html_url": "https://github.com/kazuph/gpt-image-2-samples",
+    "description": "—",
+    "language": "HTML",
+    "license": "—",
+    "stars": 0,
+    "updated_at": "2026-04-27T04:15:11Z"
+  },
+  {
+    "full_name": "MuLinsenCode/gpt-image-2-codex-skill",
+    "html_url": "https://github.com/MuLinsenCode/gpt-image-2-codex-skill",
+    "description": "Codex skill for generating and editing images with gpt-image-2.",
+    "language": "Python",
+    "license": "—",
+    "stars": 0,
+    "updated_at": "2026-04-27T03:40:41Z"
+  },
+  {
+    "full_name": "tmj102025/gpt-image-2-gallery",
+    "html_url": "https://github.com/tmj102025/gpt-image-2-gallery",
+    "description": "—",
+    "language": "TypeScript",
+    "license": "—",
+    "stars": 0,
+    "updated_at": "2026-04-27T03:28:53Z"
+  },
+  {
+    "full_name": "YouMind-OpenLab/gpt-image-2-prompts-search",
+    "html_url": "https://github.com/YouMind-OpenLab/gpt-image-2-prompts-search",
+    "description": "—",
+    "language": "TypeScript",
+    "license": "—",
+    "stars": 0,
+    "updated_at": "2026-04-27T02:57:59Z"
+  },
+  {
+    "full_name": "KunihiroS/codex-image-generate",
+    "html_url": "https://github.com/KunihiroS/codex-image-generate",
+    "description": "AI agent skill for generating images via Codex/ChatGPT OAuth login using gpt-image-2",
+    "language": "Python",
+    "license": "—",
+    "stars": 0,
+    "updated_at": "2026-04-27T02:55:56Z"
+  },
+  {
+    "full_name": "pyth0nb3st/awesome-gpt-image-2",
+    "html_url": "https://github.com/pyth0nb3st/awesome-gpt-image-2",
+    "description": "A public gallery of playful GPT Image 2 prompts, use cases, and generated images",
+    "language": "HTML",
+    "license": "NOASSERTION",
+    "stars": 0,
+    "updated_at": "2026-04-27T01:56:39Z"
+  },
+  {
+    "full_name": "sinkinrin/banana-canvas",
+    "html_url": "https://github.com/sinkinrin/banana-canvas",
+    "description": "无限画布 AI 图像生成工具，基于 React Flow + Gemini API，灵感来自 Flowith。使用banana2和gpt-image2模型进行生图，需自备api。",
+    "language": "TypeScript",
+    "license": "—",
+    "stars": 0,
+    "updated_at": "2026-04-27T01:54:56Z"
+  },
+  {
+    "full_name": "hirosak514/GPT-Image-2.0",
+    "html_url": "https://github.com/hirosak514/GPT-Image-2.0",
+    "description": "—",
+    "language": "Python",
+    "license": "—",
+    "stars": 0,
+    "updated_at": "2026-04-27T01:06:34Z"
+  },
+  {
+    "full_name": "Dexin-Huang/img-cli",
+    "html_url": "https://github.com/Dexin-Huang/img-cli",
+    "description": "Personal image-generation CLI on gpt-image-2 — curated style library, brand-identity boards, SVG mark extraction, Claude Code integration.",
+    "language": "JavaScript",
+    "license": "MIT",
+    "stars": 0,
+    "updated_at": "2026-04-26T23:18:15Z"
+  },
+  {
+    "full_name": "jvm/pi-codex-image-gen",
+    "html_url": "https://github.com/jvm/pi-codex-image-gen",
+    "description": "Image generation for Pi using the ChatGPT Images 2.0 model",
+    "language": "Python",
+    "license": "Apache-2.0",
+    "stars": 0,
+    "updated_at": "2026-04-26T22:00:55Z"
+  },
+  {
+    "full_name": "VPC-byte/gpt-image-playground-2-companion",
+    "html_url": "https://github.com/VPC-byte/gpt-image-playground-2-companion",
+    "description": "Unofficial companion framework for GPT Image 2 playground experiments and reproducible runs.",
+    "language": "—",
+    "license": "MIT",
+    "stars": 0,
+    "updated_at": "2026-04-26T17:56:30Z"
+  },
+  {
+    "full_name": "VPC-byte/gpt-image-2-skill-companion",
+    "html_url": "https://github.com/VPC-byte/gpt-image-2-skill-companion",
+    "description": "Unofficial companion spec for GPT Image 2 agent skills and traceable image-generation workflows.",
+    "language": "—",
+    "license": "MIT",
+    "stars": 0,
+    "updated_at": "2026-04-26T17:56:27Z"
+  },
+  {
+    "full_name": "VPC-byte/go-openai-gpt-image-2-notes",
+    "html_url": "https://github.com/VPC-byte/go-openai-gpt-image-2-notes",
+    "description": "Unofficial go-openai companion notes for backend GPT Image 2 generation and editing workflows.",
+    "language": "—",
+    "license": "MIT",
+    "stars": 0,
+    "updated_at": "2026-04-26T17:56:22Z"
+  },
+  {
+    "full_name": "VPC-byte/gpt-image-2-prompts-api-companion",
+    "html_url": "https://github.com/VPC-byte/gpt-image-2-prompts-api-companion",
+    "description": "Unofficial API companion for GPT Image 2 prompt collections and creator workflows.",
+    "language": "—",
+    "license": "MIT",
+    "stars": 0,
+    "updated_at": "2026-04-26T17:56:17Z"
+  },
+  {
+    "full_name": "VPC-byte/youmind-gpt-image-2-companion",
+    "html_url": "https://github.com/VPC-byte/youmind-gpt-image-2-companion",
+    "description": "Unofficial companion workflow for YouMind GPT Image 2 prompt galleries and API reproducibility.",
+    "language": "—",
+    "license": "MIT",
+    "stars": 0,
+    "updated_at": "2026-04-26T17:56:13Z"
+  },
+  {
+    "full_name": "alexlarcheveque/image-battle",
+    "html_url": "https://github.com/alexlarcheveque/image-battle",
+    "description": "Side-by-side AI image generation/editing comparison: Google Nano Banana 2 vs OpenAI gpt-image-2, judged by Claude.",
+    "language": "HTML",
+    "license": "—",
+    "stars": 0,
+    "updated_at": "2026-04-26T16:41:12Z"
+  },
+  {
+    "full_name": "xushangwen/gpt-image-2",
+    "html_url": "https://github.com/xushangwen/gpt-image-2",
+    "description": "—",
+    "language": "TypeScript",
+    "license": "—",
+    "stars": 0,
+    "updated_at": "2026-04-26T15:52:51Z"
+  },
+  {
+    "full_name": "height-comparison/gpt-image-2",
+    "html_url": "https://github.com/height-comparison/gpt-image-2",
+    "description": "GPT Image 2 Guide: Features, Prompts, Use Cases",
+    "language": "—",
+    "license": "—",
+    "stars": 0,
+    "updated_at": "2026-04-26T15:20:22Z"
+  },
+  {
+    "full_name": "tejasashinde/awesome-image-prompts",
+    "html_url": "https://github.com/tejasashinde/awesome-image-prompts",
+    "description": "Curated awesome list of AI Image prompts from across the web covering models like Midjourney V8, GPT Image 2, etc. with their sources",
+    "language": "—",
+    "license": "Apache-2.0",
+    "stars": 0,
+    "updated_at": "2026-04-26T14:32:19Z"
+  },
+  {
+    "full_name": "webdown-a/gpt-image-2",
+    "html_url": "https://github.com/webdown-a/gpt-image-2",
+    "description": "—",
+    "language": "TypeScript",
+    "license": "MIT",
+    "stars": 0,
+    "updated_at": "2026-04-26T13:57:22Z"
+  },
+  {
+    "full_name": "violin86318/youmind-gpt-image-2-sync",
+    "html_url": "https://github.com/violin86318/youmind-gpt-image-2-sync",
+    "description": "—",
+    "language": "JavaScript",
+    "license": "—",
+    "stars": 0,
+    "updated_at": "2026-04-26T13:49:47Z"
+  },
+  {
+    "full_name": "exobrain-alpha/gpt-image-2",
+    "html_url": "https://github.com/exobrain-alpha/gpt-image-2",
+    "description": "—",
+    "language": "TypeScript",
+    "license": "MIT",
+    "stars": 0,
+    "updated_at": "2026-04-26T13:47:05Z"
+  },
+  {
+    "full_name": "wuguirongsg/gpt-image2-Guide",
+    "html_url": "https://github.com/wuguirongsg/gpt-image2-Guide",
+    "description": "一本面向内容创作者、电商卖家、设计从业者与产品经理的系统化落地手册。涵盖 GPT Image 2 的核心能力、10 大实战场景、提示词工程方法论与进阶工作流。",
+    "language": "CSS",
+    "license": "NOASSERTION",
+    "stars": 0,
+    "updated_at": "2026-04-26T13:23:36Z"
+  },
+  {
+    "full_name": "lrpli/gpt-image-2",
+    "html_url": "https://github.com/lrpli/gpt-image-2",
+    "description": "—",
+    "language": "PHP",
+    "license": "—",
+    "stars": 0,
+    "updated_at": "2026-04-26T13:19:40Z"
+  },
+  {
+    "full_name": "xuxiao305/GPT_Image_2",
+    "html_url": "https://github.com/xuxiao305/GPT_Image_2",
+    "description": "—",
+    "language": "Python",
+    "license": "—",
+    "stars": 0,
+    "updated_at": "2026-04-26T13:12:23Z"
+  },
+  {
+    "full_name": "TomHagiladi/achad-haam-ai-workshop",
+    "html_url": "https://github.com/TomHagiladi/achad-haam-ai-workshop",
+    "description": "אפליקציה מלווה לסדנת AI למורים — חט\"ב אחד העם פתח תקווה. 3 מסלולים: ChatGPT Images 2.0, Gemini Canvas, Gemini Gems.",
+    "language": "CSS",
+    "license": "—",
+    "stars": 0,
+    "updated_at": "2026-04-26T13:11:58Z"
+  },
+  {
+    "full_name": "AzhuTech/awesome-gpt-image-2-prompts",
+    "html_url": "https://github.com/AzhuTech/awesome-gpt-image-2-prompts",
+    "description": "Curated GPT Image 2 prompt recipes and demo gallery",
+    "language": "JavaScript",
+    "license": "NOASSERTION",
+    "stars": 0,
+    "updated_at": "2026-04-26T11:22:24Z"
+  },
+  {
+    "full_name": "longsangsabo2025/poster-forge",
+    "html_url": "https://github.com/longsangsabo2025/poster-forge",
+    "description": "AI-powered poster prompt factory — Qwen Vision auto-fill + GPT Image 2",
+    "language": "JavaScript",
+    "license": "—",
+    "stars": 0,
+    "updated_at": "2026-04-26T11:17:31Z"
+  },
+  {
+    "full_name": "spitir2014/gpt-image-waterfall",
+    "html_url": "https://github.com/spitir2014/gpt-image-waterfall",
+    "description": "AI 图片 Prompt 灵感瀑布流图库，基于 awesome-gpt-image-2-prompts 产品化改造。",
+    "language": "TypeScript",
+    "license": "MIT",
+    "stars": 0,
+    "updated_at": "2026-04-26T09:22:08Z"
+  },
+  {
+    "full_name": "deepin723/dp-gpt-image-2",
+    "html_url": "https://github.com/deepin723/dp-gpt-image-2",
+    "description": "—",
+    "language": "Vue",
+    "license": "—",
+    "stars": 0,
+    "updated_at": "2026-04-26T08:42:25Z"
+  },
+  {
+    "full_name": "michaeljabbour/amplifier-bundle-imagen",
+    "html_url": "https://github.com/michaeljabbour/amplifier-bundle-imagen",
+    "description": "Amplifier bundle — AI image generation and editing specialists (creative direction, prompt engineering, sequential editing, visual analysis) powered by OpenAI gpt-image-2 and Gemini Nano Banana Pro. Wraps the imagegen MCP server.",
+    "language": "Python",
+    "license": "—",
+    "stars": 0,
+    "updated_at": "2026-04-26T07:10:35Z"
+  },
+  {
+    "full_name": "markcxx/gpt-image-2-prompt",
+    "html_url": "https://github.com/markcxx/gpt-image-2-prompt",
+    "description": "—",
+    "language": "TypeScript",
+    "license": "—",
+    "stars": 0,
+    "updated_at": "2026-04-26T05:50:30Z"
+  },
+  {
+    "full_name": "indreamai/awesome-gpt-image-2-prompts",
+    "html_url": "https://github.com/indreamai/awesome-gpt-image-2-prompts",
+    "description": "Explore a curated GPT Image 2 prompt library with 1,500+ prompts and preview images. Updated daily, free to use, and open source.",
+    "language": "—",
+    "license": "—",
+    "stars": 0,
+    "updated_at": "2026-04-26T04:40:08Z"
+  },
+  {
+    "full_name": "SimonHuangTPE/claude-code-image-skills",
+    "html_url": "https://github.com/SimonHuangTPE/claude-code-image-skills",
+    "description": "OpenAI gpt-image-2 skills for Claude Code: single (draw) + batch variations (draw-batch). 14 style presets + 8 variation axes + 2K support + cost tracking.",
+    "language": "Python",
+    "license": "—",
+    "stars": 0,
+    "updated_at": "2026-04-26T03:47:02Z"
+  },
+  {
+    "full_name": "bazaarjapan/gpt-image2-2",
+    "html_url": "https://github.com/bazaarjapan/gpt-image2-2",
+    "description": "—",
+    "language": "HTML",
+    "license": "—",
+    "stars": 0,
+    "updated_at": "2026-04-26T03:39:27Z"
+  },
+  {
+    "full_name": "MengFanLu1/opendoor-image-skills",
+    "html_url": "https://github.com/MengFanLu1/opendoor-image-skills",
+    "description": "Claude Code skill for AI image generation via OpenDoor Hub — supports NanoBanana (Gemini) and gpt-image-2 (OpenAI), auto-archives locally",
+    "language": "Python",
+    "license": "—",
+    "stars": 0,
+    "updated_at": "2026-04-26T02:57:26Z"
+  },
+  {
+    "full_name": "metafeng/fangxin-image-gen",
+    "html_url": "https://github.com/metafeng/fangxin-image-gen",
+    "description": "Claude Skills / Codex 中文图片生成 Skill：基于放心 API（fangxinapi.com）的 gpt-image-2，支持文生图、改图、多图合成与 URL 输入",
+    "language": "Python",
+    "license": "—",
+    "stars": 0,
+    "updated_at": "2026-04-26T02:44:31Z"
+  },
+  {
+    "full_name": "CloudLu8/gpt-image2-playground",
+    "html_url": "https://github.com/CloudLu8/gpt-image2-playground",
+    "description": "—",
+    "language": "TypeScript",
+    "license": "MIT",
+    "stars": 0,
+    "updated_at": "2026-04-26T01:41:35Z"
+  },
+  {
+    "full_name": "aEboli/codex-image",
+    "html_url": "https://github.com/aEboli/codex-image",
+    "description": "Codex skill for using gpt-image-2 through /responses with explicit invocation recommended",
+    "language": "JavaScript",
+    "license": "MIT",
+    "stars": 0,
+    "updated_at": "2026-04-25T22:52:30Z"
+  },
+  {
+    "full_name": "gpt-image-2-desktop/gpt-image-2-desktop",
+    "html_url": "https://github.com/gpt-image-2-desktop/gpt-image-2-desktop",
+    "description": "Free desktop app for OpenAI's gpt-image-2 (ChatGPT Images 2.0). No account, no subscription. 2K output, 8-image batches, character continuity. Win/Mac.",
+    "language": "Python",
+    "license": "MIT",
+    "stars": 0,
+    "updated_at": "2026-04-25T22:03:17Z"
+  },
+  {
+    "full_name": "AlijeeWrites/chatgpt-images-2-0-prompts-2026-guide",
+    "html_url": "https://github.com/AlijeeWrites/chatgpt-images-2-0-prompts-2026-guide",
+    "description": "ChatGPT Image 2.0 Prompts Complete Helpful Guide with 50+ examples",
+    "language": "—",
+    "license": "—",
+    "stars": 0,
+    "updated_at": "2026-04-25T18:59:51Z"
+  },
+  {
+    "full_name": "lyliefeng/awesome-gpt-image-generator",
+    "html_url": "https://github.com/lyliefeng/awesome-gpt-image-generator",
+    "description": "Awesome GPT Image 2 - AI绘画提示词生成器",
+    "language": "—",
+    "license": "—",
+    "stars": 0,
+    "updated_at": "2026-04-25T17:59:46Z"
+  },
+  {
+    "full_name": "AI-BrandFactory/ai-image-bible",
+    "html_url": "https://github.com/AI-BrandFactory/ai-image-bible",
+    "description": "Companion repo for The AI Image Bible. Prompt and payload templates for OpenAI gpt-image-2, Midjourney V8.1, and Google Gemini 3 Pro Image (Nano Banana Pro). April 2026.",
+    "language": "—",
+    "license": "NOASSERTION",
+    "stars": 0,
+    "updated_at": "2026-04-25T17:33:40Z"
+  },
+  {
+    "full_name": "desmondddm/aso-openai-screenshots",
+    "html_url": "https://github.com/desmondddm/aso-openai-screenshots",
+    "description": "Claude Code skill: Generate high-converting App Store screenshots using OpenAI's gpt-image-2. Hybrid approach — Pillow for pixel-perfect text, AI for phone mockups.",
+    "language": "Python",
+    "license": "MIT",
+    "stars": 0,
+    "updated_at": "2026-04-25T16:07:42Z"
+  },
+  {
+    "full_name": "xianyu110/gpt-image-2-web",
+    "html_url": "https://github.com/xianyu110/gpt-image-2-web",
+    "description": "一个可部署到 GitHub Pages 的静态 GPT Image 2 生图网站",
+    "language": "HTML",
+    "license": "—",
+    "stars": 0,
+    "updated_at": "2026-04-25T15:51:06Z"
+  },
+  {
+    "full_name": "ClassicsCrypto/gpt-image-2-prompt-framework",
+    "html_url": "https://github.com/ClassicsCrypto/gpt-image-2-prompt-framework",
+    "description": "A practical GPT-image-2 prompt framework for stronger image prompts, reference roles, edits, and social-ready prompt variants.",
+    "language": "—",
+    "license": "MIT",
+    "stars": 0,
+    "updated_at": "2026-04-25T14:57:56Z"
+  },
+  {
+    "full_name": "lizhipodcast/gpt-image-2",
+    "html_url": "https://github.com/lizhipodcast/gpt-image-2",
+    "description": "Edit and generate images instantly with OpenAI's GPT Image 2 AI model. Perfect text preservation, flawless identity consistency, 4K upscaling & context-aware editing.",
+    "language": "—",
+    "license": "—",
+    "stars": 0,
+    "updated_at": "2026-04-25T14:30:16Z"
+  },
+  {
+    "full_name": "fogtape/hermes-img-skill",
+    "html_url": "https://github.com/fogtape/hermes-img-skill",
+    "description": "Hermes 图片技能：无需切模型，读取本机配置的 base_url 与 api_key，默认用 gpt-image-2 调用 /v1/images/generations 发图。",
+    "language": "Python",
+    "license": "MIT",
+    "stars": 0,
+    "updated_at": "2026-04-25T14:19:30Z"
+  },
+  {
+    "full_name": "duduesh/gpt-image2-ratos",
+    "html_url": "https://github.com/duduesh/gpt-image2-ratos",
+    "description": "Skill de geracao de imagens com gpt-image-2 (OpenAI) usando OAuth do plano ChatGPT do user — sem API key. Lê ~/.codex/auth.json e roteia via proxy local openai-oauth.",
+    "language": "—",
+    "license": "—",
+    "stars": 0,
+    "updated_at": "2026-04-25T14:13:55Z"
+  },
+  {
+    "full_name": "duduesh/image-gen-ratos",
+    "html_url": "https://github.com/duduesh/image-gen-ratos",
+    "description": "Skill de geracao de imagens cinematograficas pro Claude Code via gpt-image-2 (FAL API). Calibrada no estilo Ratos de IA. Zero dependencias.",
+    "language": "—",
+    "license": "—",
+    "stars": 0,
+    "updated_at": "2026-04-25T13:17:20Z"
+  },
+  {
+    "full_name": "Meltemi-Q/chatgpt-image-2-skill",
+    "html_url": "https://github.com/Meltemi-Q/chatgpt-image-2-skill",
+    "description": "Generate images via OpenAI gpt-image-2 through a self-hosted CLIProxyAPI gateway. Pure Python stdlib skill (Hermes / Claude Code / OpenClaw / CLI).",
+    "language": "Python",
+    "license": "—",
+    "stars": 0,
+    "updated_at": "2026-04-25T11:29:53Z"
+  },
+  {
+    "full_name": "fuuuuuuma/gpt-image-prompts-100",
+    "html_url": "https://github.com/fuuuuuuma/gpt-image-prompts-100",
+    "description": "GPT Image 2.0 向け実用プロンプト100選（X / note 厳選）",
+    "language": "—",
+    "license": "MIT",
+    "stars": 0,
+    "updated_at": "2026-04-25T10:42:02Z"
+  },
+  {
+    "full_name": "jay6697117/gpt-image2-skill",
+    "html_url": "https://github.com/jay6697117/gpt-image2-skill",
+    "description": "—",
+    "language": "Python",
+    "license": "—",
+    "stars": 0,
+    "updated_at": "2026-04-25T09:10:53Z"
+  },
+  {
+    "full_name": "3yangyang9/generate-image-gpt-agent",
+    "html_url": "https://github.com/3yangyang9/generate-image-gpt-agent",
+    "description": "An open agent skill for generating images via api.tsbys.com using gpt-image-2 model",
+    "language": "Python",
+    "license": "—",
+    "stars": 0,
+    "updated_at": "2026-04-25T09:00:25Z"
+  },
+  {
+    "full_name": "ChenyqThu/image-forge",
+    "html_url": "https://github.com/ChenyqThu/image-forge",
+    "description": "AI image generation skill for OpenClaw — 3D routing (use-case × style × subject), GPT Image 2 + Gemini dual backend",
+    "language": "Python",
+    "license": "—",
+    "stars": 0,
+    "updated_at": "2026-04-25T07:23:43Z"
+  },
+  {
+    "full_name": "gptimages/awesome-gpt-image-2-prompts",
+    "html_url": "https://github.com/gptimages/awesome-gpt-image-2-prompts",
+    "description": "Curated GPT Image 2 prompts and examples — portraits, posters, product shots, UI mockups. Try free at gptimager.com",
+    "language": "—",
+    "license": "NOASSERTION",
+    "stars": 0,
+    "updated_at": "2026-04-25T07:00:57Z"
+  },
+  {
+    "full_name": "oil-oil/draw-ui",
+    "html_url": "https://github.com/oil-oil/draw-ui",
+    "description": "Claude Code skill: generate UI design mockups with GPT Image 2 via ZenMux",
+    "language": "Python",
+    "license": "—",
+    "stars": 0,
+    "updated_at": "2026-04-25T06:52:26Z"
+  },
+  {
+    "full_name": "james20141606/sci-figure-workflow",
+    "html_url": "https://github.com/james20141606/sci-figure-workflow",
+    "description": "Claude Code Skill: AIGC 科研绘图 4 步工作流（GPT-image-2 × Gemini Vision × Nano Banana 2 × draw.io）— 把顶会论文配图从半天压缩到 10 分钟，产出可编辑 .drawio/.pptx/.svg",
+    "language": "—",
+    "license": "—",
+    "stars": 0,
+    "updated_at": "2026-04-25T02:48:12Z"
+  },
+  {
+    "full_name": "videodiesel/awesome-gpt-image-2",
+    "html_url": "https://github.com/videodiesel/awesome-gpt-image-2",
+    "description": "—",
+    "language": "TypeScript",
+    "license": "NOASSERTION",
+    "stars": 0,
+    "updated_at": "2026-04-24T22:43:34Z"
+  },
+  {
+    "full_name": "da-troll/logo-generator",
+    "html_url": "https://github.com/da-troll/logo-generator",
+    "description": "Household mark forge — prompt-to-logo concept grid with SVG + raster dual-lane generation (gpt-5.4 + gpt-image-2), live palette tweak, and one-click Apply-to-MVP.",
+    "language": "JavaScript",
+    "license": "—",
+    "stars": 0,
+    "updated_at": "2026-04-24T21:09:55Z"
+  },
+  {
+    "full_name": "muctebadikmen/gpt-image2-vs-nano-banana2",
+    "html_url": "https://github.com/muctebadikmen/gpt-image2-vs-nano-banana2",
+    "description": "GPT Image 2 vs Nano Banana 2 — blind AI image comparison site with live leaderboard. Vite + React + Netlify Functions + Blobs.",
+    "language": "TypeScript",
+    "license": "—",
+    "stars": 0,
+    "updated_at": "2026-04-24T20:40:57Z"
+  },
+  {
+    "full_name": "AmamiShigure/codex2image",
+    "html_url": "https://github.com/AmamiShigure/codex2image",
+    "description": "gpt-image-2 card art generator via CPA proxy — Next.js 14",
+    "language": "TypeScript",
+    "license": "—",
+    "stars": 0,
+    "updated_at": "2026-04-24T19:15:47Z"
+  },
+  {
+    "full_name": "VoidLight00/gptimage2.0",
+    "html_url": "https://github.com/VoidLight00/gptimage2.0",
+    "description": "GPT image + prompt archive by VOIDLIGHT — xAI-inspired monochrome gallery, auto-categorized Korean content-creator prompts",
+    "language": "TypeScript",
+    "license": "—",
+    "stars": 0,
+    "updated_at": "2026-04-24T16:48:04Z"
+  },
+  {
+    "full_name": "theinventor/images-cli",
+    "html_url": "https://github.com/theinventor/images-cli",
+    "description": "Open-source CLI for image editing powered by OpenAI's gpt-image-2",
+    "language": "TypeScript",
+    "license": "—",
+    "stars": 0,
+    "updated_at": "2026-04-24T16:29:30Z"
+  },
+  {
+    "full_name": "Yummytanmo/ComicCreator",
+    "html_url": "https://github.com/Yummytanmo/ComicCreator",
+    "description": "CLI-first multi-agent comic generator that turns a theme into a 10-page Chinese comic using gpt-5.4 for story/script, gpt-image-2 for page rendering, staged resume, QA review, and PDF export.",
+    "language": "Python",
+    "license": "—",
+    "stars": 0,
+    "updated_at": "2026-04-24T15:40:30Z"
+  },
+  {
+    "full_name": "GordenSun/GPT-Image-2",
+    "html_url": "https://github.com/GordenSun/GPT-Image-2",
+    "description": "在线免费使用GPT-Image-2，免费总额度5000张",
+    "language": "HTML",
+    "license": "—",
+    "stars": 0,
+    "updated_at": "2026-04-24T15:32:00Z"
+  },
+  {
+    "full_name": "lyzcodebool/gpt-image-2-api",
+    "html_url": "https://github.com/lyzcodebool/gpt-image-2-api",
+    "description": "gpt-image-2 API. ￥0.04一张图，附快速对接教程，轻松上手，人人都是设计师。GPT-Image-2 API. Only ¥0.04 per image, with a quick integration tutorial for easy access. Empower everyone to be a designer.",
+    "language": "—",
+    "license": "—",
+    "stars": 0,
+    "updated_at": "2026-04-24T15:02:18Z"
+  },
+  {
+    "full_name": "wynwynwyn888/awesome-gpt-image-2",
+    "html_url": "https://github.com/wynwynwyn888/awesome-gpt-image-2",
+    "description": "🚀 World's largest GPT Image 2 prompt library, updated daily — 1500+ curated prompts with preview images, 16 languages. OpenAI's next-gen image model with pixel-perfect text rendering, cross-image consistency, and commercial-grade illustration. Free & open source.",
+    "language": "—",
+    "license": "NOASSERTION",
+    "stars": 0,
+    "updated_at": "2026-04-24T13:13:09Z"
+  },
+  {
+    "full_name": "JerryZ01/gpt-image-2-tutorial",
+    "html_url": "https://github.com/JerryZ01/gpt-image-2-tutorial",
+    "description": "GPT-Image-2 完全教程 - 从零到一掌握 OpenAI 最新图像生成模型",
+    "language": "—",
+    "license": "NOASSERTION",
+    "stars": 0,
+    "updated_at": "2026-04-24T12:17:50Z"
+  },
+  {
+    "full_name": "cogine-ai/image2-with-codex",
+    "html_url": "https://github.com/cogine-ai/image2-with-codex",
+    "description": "gpt-image-2 to generate pics using Codex CLI",
+    "language": "JavaScript",
+    "license": "MIT",
+    "stars": 0,
+    "updated_at": "2026-04-24T11:09:01Z"
+  },
+  {
+    "full_name": "HSScodes/AeroWallpapers",
+    "html_url": "https://github.com/HSScodes/AeroWallpapers",
+    "description": "Collection of Modern Fruttiger Aero-inspired wallpapers generated with gpt-image-2",
+    "language": "—",
+    "license": "Unlicense",
+    "stars": 0,
+    "updated_at": "2026-04-24T11:05:00Z"
+  },
+  {
+    "full_name": "zjandrew/gpt-image-cli",
+    "html_url": "https://github.com/zjandrew/gpt-image-cli",
+    "description": "CLI for OpenAI gpt-image-2 generation/editing, with a Chinese Claude Code SKILL",
+    "language": "TypeScript",
+    "license": "—",
+    "stars": 0,
+    "updated_at": "2026-04-24T09:53:20Z"
+  },
+  {
+    "full_name": "bazaarjapan/gpt-image2",
+    "html_url": "https://github.com/bazaarjapan/gpt-image2",
+    "description": "—",
+    "language": "Python",
+    "license": "—",
+    "stars": 0,
+    "updated_at": "2026-04-24T08:56:28Z"
+  },
+  {
+    "full_name": "asabultonouti536/gpt-image-2",
+    "html_url": "https://github.com/asabultonouti536/gpt-image-2",
+    "description": "GPT Image 2 helps creators and product teams generate visual concepts, image assets, and campaign drafts faster with practical AI image workflows.",
+    "language": "—",
+    "license": "—",
+    "stars": 0,
+    "updated_at": "2026-04-24T08:49:38Z"
+  },
+  {
+    "full_name": "X-RayLuan/openclaw-slideshow-video",
+    "html_url": "https://github.com/X-RayLuan/openclaw-slideshow-video",
+    "description": "OpenClaw SlideShow Video - AI-powered SEO/GEO-friendly slideshow video generator with GPT Image 2 and multi-language support",
+    "language": "Python",
+    "license": "—",
+    "stars": 0,
+    "updated_at": "2026-04-24T08:07:38Z"
+  },
+  {
+    "full_name": "cheercheung/gpt-image-2-calculator",
+    "html_url": "https://github.com/cheercheung/gpt-image-2-calculator",
+    "description": "gpt-image-2-calculator",
+    "language": "TypeScript",
+    "license": "—",
+    "stars": 0,
+    "updated_at": "2026-04-24T07:34:49Z"
+  },
+  {
+    "full_name": "mocchalera/lenslab",
+    "html_url": "https://github.com/mocchalera/lenslab",
+    "description": "Professional optical portrait simulation powered by OpenAI gpt-image-2 and Gemini — camera, lens, lighting, wardrobe, map-based scene controls. MIT, bilingual UI (JA/EN).",
+    "language": "TypeScript",
+    "license": "MIT",
+    "stars": 0,
+    "updated_at": "2026-04-24T06:52:00Z"
+  },
+  {
+    "full_name": "Desima-AP/autoimage-claude",
+    "html_url": "https://github.com/Desima-AP/autoimage-claude",
+    "description": "Auto-generate brand-aligned images for frontend projects, directly from Claude Code. OpenAI gpt-image-2 + Google Gemini Nano Banana 3.1. Detects placeholders and missing images in JSX/TSX/HTML/CSS/Vue/Svelte, crafts prompts from your Tailwind palette, generates + post-processes on demand.",
+    "language": "Python",
+    "license": "MIT",
+    "stars": 0,
+    "updated_at": "2026-04-24T06:45:02Z"
+  },
+  {
+    "full_name": "ssstark01-beep/gpt-image-2-local-codex",
+    "html_url": "https://github.com/ssstark01-beep/gpt-image-2-local-codex",
+    "description": "—",
+    "language": "Shell",
+    "license": "—",
+    "stars": 0,
+    "updated_at": "2026-04-24T04:23:43Z"
+  },
+  {
+    "full_name": "hskaildm/gpt-image-2-curated-prompts",
+    "html_url": "https://github.com/hskaildm/gpt-image-2-curated-prompts",
+    "description": "有趣的 gpt-iamge-2 精选提示词汇总",
+    "language": "—",
+    "license": "—",
+    "stars": 0,
+    "updated_at": "2026-04-24T03:56:23Z"
+  },
+  {
+    "full_name": "yb3712590/gpt-image-playground",
+    "html_url": "https://github.com/yb3712590/gpt-image-playground",
+    "description": "A simple gpt-image-2 relay server.",
+    "language": "JavaScript",
+    "license": "—",
+    "stars": 0,
+    "updated_at": "2026-04-24T03:49:56Z"
+  },
+  {
+    "full_name": "dracohu2025-cloud/gpt-image-2-examples",
+    "html_url": "https://github.com/dracohu2025-cloud/gpt-image-2-examples",
+    "description": "—",
+    "language": "Python",
+    "license": "—",
+    "stars": 0,
+    "updated_at": "2026-04-24T03:27:57Z"
+  },
+  {
+    "full_name": "tonyd2wild/chatgpt-img2-oauth",
+    "html_url": "https://github.com/tonyd2wild/chatgpt-img2-oauth",
+    "description": "Use ChatGPT gpt-image-2 via ChatGPT OAuth instead of the paid OpenAI API. Patches OpenClaw + includes drop-in skills for Claude Code and Hermes.",
+    "language": "Shell",
+    "license": "—",
+    "stars": 0,
+    "updated_at": "2026-04-24T03:25:59Z"
+  },
+  {
+    "full_name": "konglong87/nano-banana-pro-china",
+    "html_url": "https://github.com/konglong87/nano-banana-pro-china",
+    "description": "skills, 代理 nano-banana和GPT image2，不需要科学上网。支持自定义图片模板、UI风格。",
+    "language": "Python",
+    "license": "MIT",
+    "stars": 0,
+    "updated_at": "2026-04-24T01:25:18Z"
+  },
+  {
+    "full_name": "ClassicsCrypto/codex-imagegen",
+    "html_url": "https://github.com/ClassicsCrypto/codex-imagegen",
+    "description": "Route OpenClaw image generation through your ChatGPT Pro/Plus subscription instead of the API. MIT.",
+    "language": "Shell",
+    "license": "MIT",
+    "stars": 0,
+    "updated_at": "2026-04-24T01:01:12Z"
+  },
+  {
+    "full_name": "Image2GPT/awesome-gpt-image-2-with-prompts",
+    "html_url": "https://github.com/Image2GPT/awesome-gpt-image-2-with-prompts",
+    "description": "—",
+    "language": "—",
+    "license": "—",
+    "stars": 0,
+    "updated_at": "2026-04-23T22:43:01Z"
+  },
+  {
+    "full_name": "Lower-Street/image2-skill",
+    "html_url": "https://github.com/Lower-Street/image2-skill",
+    "description": "Claude Code skill: converts casual descriptions into production-ready GPT Image 2 prompts",
+    "language": "—",
+    "license": "—",
+    "stars": 0,
+    "updated_at": "2026-04-23T20:26:25Z"
+  },
+  {
+    "full_name": "contextarchitect/kie-ai-mcp-server",
+    "html_url": "https://github.com/contextarchitect/kie-ai-mcp-server",
+    "description": "Kie.ai MCP server with GPT Image 2 support. Fork of @felores/kie-ai-mcp-server with GPT Image 2 text-to-image and image-to-image tools added.",
+    "language": "JavaScript",
+    "license": "MIT",
+    "stars": 0,
+    "updated_at": "2026-04-23T17:27:19Z"
+  },
+  {
+    "full_name": "mechapizzai-lab/gpt-image-2-skill",
+    "html_url": "https://github.com/mechapizzai-lab/gpt-image-2-skill",
+    "description": "—",
+    "language": "—",
+    "license": "—",
+    "stars": 0,
+    "updated_at": "2026-04-23T14:55:34Z"
+  },
+  {
+    "full_name": "X-yhhh/API-gpt-image-2-mcp",
+    "html_url": "https://github.com/X-yhhh/API-gpt-image-2-mcp",
+    "description": "—",
+    "language": "JavaScript",
+    "license": "Apache-2.0",
+    "stars": 0,
+    "updated_at": "2026-04-23T14:54:45Z"
+  },
+  {
+    "full_name": "regou/how-gpt-images-2-might-work",
+    "html_url": "https://github.com/regou/how-gpt-images-2-might-work",
+    "description": "How GPT-IMAGES-2.0 Might Work: A Speculative Systems Hypothesis",
+    "language": "—",
+    "license": "CC-BY-4.0",
+    "stars": 0,
+    "updated_at": "2026-04-23T14:04:14Z"
+  },
+  {
+    "full_name": "trungcaha888-art/free-gift-prompt-image",
+    "html_url": "https://github.com/trungcaha888-art/free-gift-prompt-image",
+    "description": "Bo 120 Prompt GPT Image 2 Dinh Cao - Free Gift tu Trung Caha AI",
+    "language": "HTML",
+    "license": "—",
+    "stars": 0,
+    "updated_at": "2026-04-23T13:48:57Z"
+  },
+  {
+    "full_name": "keenranger/open-wall",
+    "html_url": "https://github.com/keenranger/open-wall",
+    "description": "Multi-angle indoor room reconstruction powered by OpenAI gpt-image-2.",
+    "language": "TypeScript",
+    "license": "MIT",
+    "stars": 0,
+    "updated_at": "2026-04-23T13:27:31Z"
+  },
+  {
+    "full_name": "Luofaiz/codex-gpt-image-2-imagegen-skill",
+    "html_url": "https://github.com/Luofaiz/codex-gpt-image-2-imagegen-skill",
+    "description": "—",
+    "language": "Python",
+    "license": "—",
+    "stars": 0,
+    "updated_at": "2026-04-23T12:33:28Z"
+  },
+  {
+    "full_name": "dethan3/gpt-image2-prompts",
+    "html_url": "https://github.com/dethan3/gpt-image2-prompts",
+    "description": "—",
+    "language": "HTML",
+    "license": "—",
+    "stars": 0,
+    "updated_at": "2026-04-23T12:08:49Z"
+  },
+  {
+    "full_name": "xemaya/image-gen-agent",
+    "html_url": "https://github.com/xemaya/image-gen-agent",
+    "description": "a2hmarket shop agent: prompt → OpenAI gpt-image-2 → PNG",
+    "language": "Python",
+    "license": "—",
+    "stars": 0,
+    "updated_at": "2026-04-23T10:55:28Z"
+  },
+  {
+    "full_name": "ChaitaliAvhad/prompt-craft-ecommerce-visuals",
+    "html_url": "https://github.com/ChaitaliAvhad/prompt-craft-ecommerce-visuals",
+    "description": "AI E-Commerce Visuals 2026: Ultimate GPT-Image Prompts Library ✨",
+    "language": "—",
+    "license": "—",
+    "stars": 0,
+    "updated_at": "2026-04-23T09:36:21Z"
+  },
+  {
+    "full_name": "hashmrcf-ui/gpt-image-2-skill-ar",
+    "html_url": "https://github.com/hashmrcf-ui/gpt-image-2-skill-ar",
+    "description": "—",
+    "language": "—",
+    "license": "—",
+    "stars": 0,
+    "updated_at": "2026-04-23T08:20:31Z"
+  },
+  {
+    "full_name": "guyaga/10d10s-bonus-gpt2-image",
+    "html_url": "https://github.com/guyaga/10d10s-bonus-gpt2-image",
+    "description": "Claude Code skill — OpenAI gpt-image-2. Bonus content for the 10 Days 10 Skills course.",
+    "language": "JavaScript",
+    "license": "—",
+    "stars": 0,
+    "updated_at": "2026-04-23T06:45:14Z"
+  },
+  {
+    "full_name": "moonkey48/gpt-image-2-platform",
+    "html_url": "https://github.com/moonkey48/gpt-image-2-platform",
+    "description": "—",
+    "language": "TypeScript",
+    "license": "—",
+    "stars": 0,
+    "updated_at": "2026-04-23T06:30:46Z"
+  },
+  {
+    "full_name": "QianyangPeng/gpt-image-2-game-lab",
+    "html_url": "https://github.com/QianyangPeng/gpt-image-2-game-lab",
+    "description": "—",
+    "language": "Python",
+    "license": "—",
+    "stars": 0,
+    "updated_at": "2026-04-23T05:47:32Z"
+  },
+  {
+    "full_name": "RobGruhl/hello-gpt-image",
+    "html_url": "https://github.com/RobGruhl/hello-gpt-image",
+    "description": "Canonical OpenAI image generation reference — gpt-image-2 via Image API + Responses API. Clean client, runnable examples, docs.",
+    "language": "JavaScript",
+    "license": "—",
+    "stars": 0,
+    "updated_at": "2026-04-23T05:10:45Z"
+  },
+  {
+    "full_name": "soymarketing/gpt-image-2-prompts",
+    "html_url": "https://github.com/soymarketing/gpt-image-2-prompts",
+    "description": "Reusable AgentSkill for generating and refining prompts for OpenAI gpt-image-2 / ChatGPT Images 2.0",
+    "language": "—",
+    "license": "—",
+    "stars": 0,
+    "updated_at": "2026-04-23T03:11:47Z"
+  },
+  {
+    "full_name": "qiushikai95-coder/gpt-image-2-site",
+    "html_url": "https://github.com/qiushikai95-coder/gpt-image-2-site",
+    "description": "—",
+    "language": "TypeScript",
+    "license": "—",
+    "stars": 0,
+    "updated_at": "2026-04-23T02:54:26Z"
+  },
+  {
+    "full_name": "PeterZhao119/gpt-image-2-cli",
+    "html_url": "https://github.com/PeterZhao119/gpt-image-2-cli",
+    "description": "CLI for gpt-image-2",
+    "language": "Python",
+    "license": "—",
+    "stars": 0,
+    "updated_at": "2026-04-23T01:01:24Z"
+  },
+  {
+    "full_name": "exponentlabshq/gpt-prompt-director",
+    "html_url": "https://github.com/exponentlabshq/gpt-prompt-director",
+    "description": "Prompt Director — a guided creative briefing tool that builds structured, production-ready prompts for GPT-Image-2 workflows",
+    "language": "TypeScript",
+    "license": "—",
+    "stars": 0,
+    "updated_at": "2026-04-23T00:47:29Z"
+  },
+  {
+    "full_name": "qiuxinyuan321/fumeng",
+    "html_url": "https://github.com/qiuxinyuan321/fumeng",
+    "description": "🌸 AI 前端 UI 生图 Skill · 三位一体跨模态系统 (image-2 × MCP × prompt engineering) for Claude Code / Cursor / Windsurf",
+    "language": "PowerShell",
+    "license": "MIT",
+    "stars": 0,
+    "updated_at": "2026-04-22T21:28:35Z"
+  },
+  {
+    "full_name": "qiuxinyuan321/ai-image-bypass",
+    "html_url": "https://github.com/qiuxinyuan321/ai-image-bypass",
+    "description": "📸 Realistic human / celebrity portrait generation Claude Skill · 7-slot formula + lookalike technique + model-aware routing · sister of fumeng",
+    "language": "PowerShell",
+    "license": "MIT",
+    "stars": 0,
+    "updated_at": "2026-04-22T20:58:40Z"
+  },
+  {
+    "full_name": "fengxiaohu/awesome-gpt-image-2",
+    "html_url": "https://github.com/fengxiaohu/awesome-gpt-image-2",
+    "description": "🚀 Awesome GPT Image-2 — curated prompts, examples, and tips for mastering prompt engineering with OpenAI's GPT Image-2.",
+    "language": "Python",
+    "license": "NOASSERTION",
+    "stars": 0,
+    "updated_at": "2026-04-22T19:16:14Z"
+  },
+  {
+    "full_name": "singh2/amplifier-module-tool-openai-images",
+    "html_url": "https://github.com/singh2/amplifier-module-tool-openai-images",
+    "description": "OpenAI Images API tool for Amplifier — generation, editing, and background removal via gpt-image-2",
+    "language": "Python",
+    "license": "MIT",
+    "stars": 0,
+    "updated_at": "2026-04-22T19:10:59Z"
+  },
+  {
+    "full_name": "xturnvK/gpt-image2-prompts",
+    "html_url": "https://github.com/xturnvK/gpt-image2-prompts",
+    "description": "—",
+    "language": "JavaScript",
+    "license": "—",
+    "stars": 0,
+    "updated_at": "2026-04-22T18:41:04Z"
+  },
+  {
+    "full_name": "happydrew/gpt-image-2",
+    "html_url": "https://github.com/happydrew/gpt-image-2",
+    "description": "GPT Image 2 Guide: Features, Use Cases, and How to Use",
+    "language": "—",
+    "license": "—",
+    "stars": 0,
+    "updated_at": "2026-04-22T16:49:02Z"
+  },
+  {
+    "full_name": "hitos7264-a11y/GPT-IMAGE-2.0",
+    "html_url": "https://github.com/hitos7264-a11y/GPT-IMAGE-2.0",
+    "description": "—",
+    "language": "HTML",
+    "license": "—",
+    "stars": 0,
+    "updated_at": "2026-04-22T13:11:42Z"
+  },
+  {
+    "full_name": "hitos7264-a11y/GPT-IMAGE-2.0-Surprised",
+    "html_url": "https://github.com/hitos7264-a11y/GPT-IMAGE-2.0-Surprised",
+    "description": "—",
+    "language": "HTML",
+    "license": "—",
+    "stars": 0,
+    "updated_at": "2026-04-22T12:51:29Z"
+  },
+  {
+    "full_name": "GoEnhanceAI/awesome-gpt-image-2",
+    "html_url": "https://github.com/GoEnhanceAI/awesome-gpt-image-2",
+    "description": "—",
+    "language": "—",
+    "license": "—",
+    "stars": 0,
+    "updated_at": "2026-04-22T10:43:18Z"
+  },
+  {
+    "full_name": "sjbaebae/openimage2",
+    "html_url": "https://github.com/sjbaebae/openimage2",
+    "description": "Open source replication of GPT Image 2",
+    "language": "—",
+    "license": "—",
+    "stars": 0,
+    "updated_at": "2026-04-22T09:51:04Z"
+  },
+  {
+    "full_name": "daimali/gpt-image2-skill",
+    "html_url": "https://github.com/daimali/gpt-image2-skill",
+    "description": "gpt-image-2-skill",
+    "language": "Python",
+    "license": "—",
+    "stars": 0,
+    "updated_at": "2026-04-22T09:47:07Z"
+  },
+  {
+    "full_name": "fantastica077-afk/banner-prompt-maker",
+    "html_url": "https://github.com/fantastica077-afk/banner-prompt-maker",
+    "description": "GPT Image 2 用バナー広告プロンプト自動生成ツール",
+    "language": "HTML",
+    "license": "—",
+    "stars": 0,
+    "updated_at": "2026-04-22T09:24:35Z"
+  },
+  {
+    "full_name": "TimekeeperXY/gpt-image-2",
+    "html_url": "https://github.com/TimekeeperXY/gpt-image-2",
+    "description": "—",
+    "language": "JavaScript",
+    "license": "—",
+    "stars": 0,
+    "updated_at": "2026-04-22T08:46:15Z"
+  },
+  {
+    "full_name": "TimekeeperXY/gpt-image-2-generator",
+    "html_url": "https://github.com/TimekeeperXY/gpt-image-2-generator",
+    "description": "—",
+    "language": "JavaScript",
+    "license": "—",
+    "stars": 0,
+    "updated_at": "2026-04-22T07:15:23Z"
+  },
+  {
+    "full_name": "Poo-DH/Comfyui_gpt_2.0",
+    "html_url": "https://github.com/Poo-DH/Comfyui_gpt_2.0",
+    "description": "ComfyUI custom node for OpenAI GPT Image 2",
+    "language": "Python",
+    "license": "MIT",
+    "stars": 0,
+    "updated_at": "2026-04-22T06:18:39Z"
+  },
+  {
+    "full_name": "whataicc/gpt-image-2",
+    "html_url": "https://github.com/whataicc/gpt-image-2",
+    "description": "gpt-image-2代理API_低价稳定gpt-image-2中转API_国内直连OpenAI",
+    "language": "—",
+    "license": "—",
+    "stars": 0,
+    "updated_at": "2026-04-22T04:52:27Z"
+  },
+  {
+    "full_name": "qprime/image-forge",
+    "html_url": "https://github.com/qprime/image-forge",
+    "description": "Generate stylized images via GPT Image 2 and enhance into CAM-ready 16-bit heightmaps",
+    "language": "Python",
+    "license": "—",
+    "stars": 0,
+    "updated_at": "2026-04-22T03:17:57Z"
+  },
+  {
+    "full_name": "vincenzopirozzideveloper/ethereon",
+    "html_url": "https://github.com/vincenzopirozzideveloper/ethereon",
+    "description": "Ethereon cinematic crypto landing page. Vite + React + GSAP + GPT-Image-2.",
+    "language": "—",
+    "license": "—",
+    "stars": 0,
+    "updated_at": "2026-04-22T00:12:44Z"
+  },
+  {
+    "full_name": "GitHub30/Awesome-GPT-Image-2",
+    "html_url": "https://github.com/GitHub30/Awesome-GPT-Image-2",
+    "description": "About A curated collection of fun and creative examples generated with GPT-Image-2",
+    "language": "—",
+    "license": "MIT",
+    "stars": 0,
+    "updated_at": "2026-04-21T22:58:52Z"
+  },
+  {
+    "full_name": "zeta987/nano-banana-infinite-canvas-shuwen-remix",
+    "html_url": "https://github.com/zeta987/nano-banana-infinite-canvas-shuwen-remix",
+    "description": "Infinite canvas powered by OpenAI GPT IMAGE 2 (flagship) + Nano Banana 2 / Pro (Gemini 3), with OpenAI Responses API prompt optimization, mask-based inpainting, outpainting, and Google Search grounding. | 以 GPT IMAGE 2 為旗艦、搭配 Nano Banana 2 / Pro 的無限畫布創作工具。",
+    "language": "TypeScript",
+    "license": "NOASSERTION",
+    "stars": 0,
+    "updated_at": "2026-04-21T21:39:13Z"
+  },
+  {
+    "full_name": "abdshomad/awesome-gpt-image-2-prompts",
+    "html_url": "https://github.com/abdshomad/awesome-gpt-image-2-prompts",
+    "description": "—",
+    "language": "—",
+    "license": "—",
+    "stars": 0,
+    "updated_at": "2026-04-21T09:21:12Z"
+  },
+  {
+    "full_name": "danielmateo773cy-stack/gpt-image-2",
+    "html_url": "https://github.com/danielmateo773cy-stack/gpt-image-2",
+    "description": "GPT Image 2 - AI-Powered Image Generation Tool",
+    "language": "—",
+    "license": "—",
+    "stars": 0,
+    "updated_at": "2026-04-21T09:12:02Z"
+  },
+  {
+    "full_name": "Maynor996/gpt-image-2-best-prompt-framework-for-commercial-visuals",
+    "html_url": "https://github.com/Maynor996/gpt-image-2-best-prompt-framework-for-commercial-visuals",
+    "description": "Best Prompt Framework for Commercial Visuals",
+    "language": "—",
+    "license": "—",
+    "stars": 0,
+    "updated_at": "2026-04-21T09:04:03Z"
+  },
+  {
+    "full_name": "Maynor996/gpt-image-2-how-to-create-ad-creatives-with-ai",
+    "html_url": "https://github.com/Maynor996/gpt-image-2-how-to-create-ad-creatives-with-ai",
+    "description": "How to Create Ad Creatives with AI",
+    "language": "—",
+    "license": "—",
+    "stars": 0,
+    "updated_at": "2026-04-21T09:03:55Z"
+  },
+  {
+    "full_name": "Maynor996/gpt-image-2-text-to-image-vs-image-to-image",
+    "html_url": "https://github.com/Maynor996/gpt-image-2-text-to-image-vs-image-to-image",
+    "description": "When to use text to image vs image to image in GPT Image 2 for stable commercial workflows.",
+    "language": "—",
+    "license": "—",
+    "stars": 0,
+    "updated_at": "2026-04-21T09:03:48Z"
+  },
+  {
+    "full_name": "Maynor996/gpt-image-2-vs-nano-banana",
+    "html_url": "https://github.com/Maynor996/gpt-image-2-vs-nano-banana",
+    "description": "GPT Image 2 vs Nano Banana",
+    "language": "—",
+    "license": "—",
+    "stars": 0,
+    "updated_at": "2026-04-21T09:03:45Z"
+  },
+  {
+    "full_name": "Maynor996/gpt-image-2-batch-ai-image-generation-for-content-teams",
+    "html_url": "https://github.com/Maynor996/gpt-image-2-batch-ai-image-generation-for-content-teams",
+    "description": "Why batch AI image generation helps content teams make faster and better creative decisions.",
+    "language": "—",
+    "license": "—",
+    "stars": 0,
+    "updated_at": "2026-04-21T09:03:38Z"
+  },
+  {
+    "full_name": "Maynor996/gpt-image-2-ai-image-editor-for-social-media-creatives",
+    "html_url": "https://github.com/Maynor996/gpt-image-2-ai-image-editor-for-social-media-creatives",
+    "description": "AI Image Editor for Social Media Creatives",
+    "language": "—",
+    "license": "—",
+    "stars": 0,
+    "updated_at": "2026-04-21T09:03:35Z"
+  },
+  {
+    "full_name": "Maynor996/gpt-image-2-ai-image-generator-for-marketing-visuals",
+    "html_url": "https://github.com/Maynor996/gpt-image-2-ai-image-generator-for-marketing-visuals",
+    "description": "AI Image Generator for Marketing Visuals",
+    "language": "—",
+    "license": "—",
+    "stars": 0,
+    "updated_at": "2026-04-21T08:57:33Z"
+  },
+  {
+    "full_name": "Maynor996/gpt-image-2-ai-image-generator-for-ecommerce-product-photos",
+    "html_url": "https://github.com/Maynor996/gpt-image-2-ai-image-generator-for-ecommerce-product-photos",
+    "description": "AI Image Generator for Ecommerce Product Photos",
+    "language": "—",
+    "license": "—",
+    "stars": 0,
+    "updated_at": "2026-04-21T08:57:26Z"
+  },
+  {
+    "full_name": "Maynor996/gpt-image-2-geo-articles",
+    "html_url": "https://github.com/Maynor996/gpt-image-2-geo-articles",
+    "description": "—",
+    "language": "—",
+    "license": "—",
+    "stars": 0,
+    "updated_at": "2026-04-21T08:51:24Z"
+  },
+  {
+    "full_name": "Maynor996/gpt-image-2-all",
+    "html_url": "https://github.com/Maynor996/gpt-image-2-all",
+    "description": "Minimal GPT Image 2 generator MVP for GitHub Pages",
+    "language": "JavaScript",
+    "license": "—",
+    "stars": 0,
+    "updated_at": "2026-04-21T07:14:48Z"
+  },
+  {
+    "full_name": "lumian2015/awesome-gpt-image-2-prompts",
+    "html_url": "https://github.com/lumian2015/awesome-gpt-image-2-prompts",
+    "description": "Curated collection of GPT Image 2 prompts with verified outputs, sourced from public X posts. 45 cases across 10 capability categories.",
+    "language": "—",
+    "license": "NOASSERTION",
+    "stars": 0,
+    "updated_at": "2026-04-20T08:59:44Z"
+  },
+  {
+    "full_name": "thuonglethi346-hub/gpt_image_2_dev",
+    "html_url": "https://github.com/thuonglethi346-hub/gpt_image_2_dev",
+    "description": "Minimal metadata package for https://www.gpt-image-2.dev",
+    "language": "Go",
+    "license": "MIT",
+    "stars": 0,
+    "updated_at": "2026-04-20T07:11:27Z"
+  },
+  {
+    "full_name": "Vairfly/gpt-image-2",
+    "html_url": "https://github.com/Vairfly/gpt-image-2",
+    "description": "—",
+    "language": "—",
+    "license": "—",
+    "stars": 0,
+    "updated_at": "2026-04-20T03:21:59Z"
+  },
+  {
+    "full_name": "Maynor996/gpt-image-2-multimodal-image-workflow",
+    "html_url": "https://github.com/Maynor996/gpt-image-2-multimodal-image-workflow",
+    "description": "How multimodal context, prompt adherence, and practical controls make GPT Image workflows more useful than older AI image tools.",
+    "language": "—",
+    "license": "—",
+    "stars": 0,
+    "updated_at": "2026-04-18T13:34:48Z"
+  },
+  {
+    "full_name": "Maynor996/gpt-image-2-text-rendering-and-editing",
+    "html_url": "https://github.com/Maynor996/gpt-image-2-text-rendering-and-editing",
+    "description": "Why text rendering and image editing are two of the biggest practical upgrades in the latest GPT Image workflow.",
+    "language": "—",
+    "license": "—",
+    "stars": 0,
+    "updated_at": "2026-04-18T13:34:34Z"
+  },
+  {
+    "full_name": "Maynor996/gpt-image-2-vs-older-image-models",
+    "html_url": "https://github.com/Maynor996/gpt-image-2-vs-older-image-models",
+    "description": "What makes GPT Image 2 feel different from older image models, based on official OpenAI image-generation capabilities.",
+    "language": "—",
+    "license": "—",
+    "stars": 0,
+    "updated_at": "2026-04-18T13:34:19Z"
+  },
+  {
+    "full_name": "Maynor996/gpt-image-2-prompt-framework-for-commercial-visuals",
+    "html_url": "https://github.com/Maynor996/gpt-image-2-prompt-framework-for-commercial-visuals",
+    "description": "A practical prompt framework for getting more usable commercial visuals from GPT Image 2.",
+    "language": "—",
+    "license": "—",
+    "stars": 0,
+    "updated_at": "2026-04-18T13:25:35Z"
+  },
+  {
+    "full_name": "Maynor996/gpt-image-2-ecommerce-product-visual-workflow",
+    "html_url": "https://github.com/Maynor996/gpt-image-2-ecommerce-product-visual-workflow",
+    "description": "A practical GPT Image 2 workflow for ecommerce product visuals, campaigns, and ad creatives.",
+    "language": "—",
+    "license": "—",
+    "stars": 0,
+    "updated_at": "2026-04-18T13:25:26Z"
+  },
+  {
+    "full_name": "Maynor996/gpt-image-2-for-marketing-visuals",
+    "html_url": "https://github.com/Maynor996/gpt-image-2-for-marketing-visuals",
+    "description": "What GPT Image 2 is and why it fits marketing visuals better than generic AI art tools.",
+    "language": "—",
+    "license": "—",
+    "stars": 0,
+    "updated_at": "2026-04-18T13:25:08Z"
+  },
+  {
+    "full_name": "GeekGallifrey/GPT-Image-2-Prompts",
+    "html_url": "https://github.com/GeekGallifrey/GPT-Image-2-Prompts",
+    "description": "—",
+    "language": "—",
+    "license": "—",
+    "stars": 0,
+    "updated_at": "2026-04-16T13:47:34Z"
+  },
+  {
+    "full_name": "thuonglethi346-hub/gpt_image_2_app",
+    "html_url": "https://github.com/thuonglethi346-hub/gpt_image_2_app",
+    "description": "minimal public package for indexing",
+    "language": "PHP",
+    "license": "MIT",
+    "stars": 0,
+    "updated_at": "2026-03-12T07:10:47Z"
+  },
+  {
+    "full_name": "Fro4yhbf/ChatGPT-Image-25-.-2025-.-02_04_03",
+    "html_url": "https://github.com/Fro4yhbf/ChatGPT-Image-25-.-2025-.-02_04_03",
+    "description": "шщшщ",
+    "language": "TypeScript",
+    "license": "—",
+    "stars": 0,
+    "updated_at": "2026-01-13T19:25:27Z"
+  }
+]

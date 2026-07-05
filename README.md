@@ -1,4 +1,7 @@
-# awesome-gpt-image2
+<div align="center">
+  <div style="margin-top: 10px; font-size: 14px;">
+    官方网站：<a href="https://gpt-image2-prompt.com" target="_blank">https://gpt-image2-prompt.com</a>
+</div>
 
 > A bilingual, data-backed awesome list of GPT-Image-2 related GitHub repositories, mined from GitHub Search and organized into a ready-to-publish repository structure.
 
